@@ -1,0 +1,1102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FeatureCollection xmlns="http://idezar.unizar.es/SimpleXML">
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Acuario de Zaragoza</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=425</PropertyValue>
+		<PropertyValue name="posicion_x">675042.06</PropertyValue>
+		<PropertyValue name="posicion_y">4615393.5</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Antigua Capitanía General</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=73</PropertyValue>
+		<PropertyValue name="posicion_x">676188.38</PropertyValue>
+		<PropertyValue name="posicion_y">4613084.91</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Antigua clínica del Doctor Lozano</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=488</PropertyValue>
+		<PropertyValue name="posicion_x">676141</PropertyValue>
+		<PropertyValue name="posicion_y">4612724</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Antigua Facultad de Medicina y Ciencias - Paraninfo Universitario</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=62</PropertyValue>
+		<PropertyValue name="posicion_x">676105.01</PropertyValue>
+		<PropertyValue name="posicion_y">4612996.53</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Antigua Joyería Aladrén  ahora Gran Café de Zaragoza</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=100</PropertyValue>
+		<PropertyValue name="posicion_x">676573.86</PropertyValue>
+		<PropertyValue name="posicion_y">4613804.95</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Antiguo Matadero Municipal</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=74</PropertyValue>
+		<PropertyValue name="posicion_x">677456.98</PropertyValue>
+		<PropertyValue name="posicion_y">4612727.95</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Arboleda de Macanaz</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=98</PropertyValue>
+		<PropertyValue name="posicion_x">676711.36</PropertyValue>
+		<PropertyValue name="posicion_y">4614329.22</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Arco y casa del Deán</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=10</PropertyValue>
+		<PropertyValue name="posicion_x">677043</PropertyValue>
+		<PropertyValue name="posicion_y">4613780.57</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Auditorio - Palacio de Congresos</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=78</PropertyValue>
+		<PropertyValue name="posicion_x">674887.32</PropertyValue>
+		<PropertyValue name="posicion_y">4611949.71</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Ayuntamiento o Casa Consistorial de Zaragoza</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=79</PropertyValue>
+		<PropertyValue name="posicion_x">676840.38</PropertyValue>
+		<PropertyValue name="posicion_y">4613965.9</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Azud del Río Ebro</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=892</PropertyValue>
+		<PropertyValue name="posicion_x">678492.63</PropertyValue>
+		<PropertyValue name="posicion_y">4613498.5</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Balcón de san Lázaro (petril de San Lázaro)</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=490</PropertyValue>
+		<PropertyValue name="posicion_x">677003.19</PropertyValue>
+		<PropertyValue name="posicion_y">4614078</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Baños Judíos</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=13</PropertyValue>
+		<PropertyValue name="posicion_x">677030.4</PropertyValue>
+		<PropertyValue name="posicion_y">4613407.72</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Barrio de Alfocea. Casa Parroquial</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=180</PropertyValue>
+		<PropertyValue name="posicion_x">670513.4</PropertyValue>
+		<PropertyValue name="posicion_y">4621362.51</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Barrio de Alfocea. Iglesia Inmaculada Concepción</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=181</PropertyValue>
+		<PropertyValue name="posicion_x">670526.85</PropertyValue>
+		<PropertyValue name="posicion_y">4621359.2</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Barrio de Casetas. Iglesia de San Miguel</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=101</PropertyValue>
+		<PropertyValue name="posicion_x">664293.23</PropertyValue>
+		<PropertyValue name="posicion_y">4620554.91</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Barrio de Garrapinillos. Iglesia de San Lorenzo</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=102</PropertyValue>
+		<PropertyValue name="posicion_x">664325.51</PropertyValue>
+		<PropertyValue name="posicion_y">4616761.26</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Barrio de Juslibol. Iglesia de Nuestra Señora de la Asunción</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=108</PropertyValue>
+		<PropertyValue name="posicion_x">674710.25</PropertyValue>
+		<PropertyValue name="posicion_y">4618204.56</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Barrio de Juslibol. Palacio Arzobispal: Escudo Heráldico</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=111</PropertyValue>
+		<PropertyValue name="posicion_x">674628.31</PropertyValue>
+		<PropertyValue name="posicion_y">4618231.81</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Barrio de la Cartuja. Antiguas Escuelas</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=166</PropertyValue>
+		<PropertyValue name="posicion_x">681563.61</PropertyValue>
+		<PropertyValue name="posicion_y">4608487.46</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Barrio de la Cartuja. Celda del Prior de la Cartuja Inmaculada Concepción</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=167</PropertyValue>
+		<PropertyValue name="posicion_x">681506.44</PropertyValue>
+		<PropertyValue name="posicion_y">4608341.46</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Barrio de la Cartuja. Hospedería de la Cartuja Inmaculada Concepción</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=171</PropertyValue>
+		<PropertyValue name="posicion_x">681537.19</PropertyValue>
+		<PropertyValue name="posicion_y">4608442.3</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Barrio de la Cartuja. Iglesia de la Cartuja Inmaculada Concepción</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=170</PropertyValue>
+		<PropertyValue name="posicion_x">676950.32</PropertyValue>
+		<PropertyValue name="posicion_y">4610580.6</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Barrio de la Cartuja. Portería de la Cartuja Inmaculada Concepción</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=172</PropertyValue>
+		<PropertyValue name="posicion_x">681562.95</PropertyValue>
+		<PropertyValue name="posicion_y">4608522.04</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Barrio de la Cartuja. Procura de la Cartuja Inmaculada Concepción</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=173</PropertyValue>
+		<PropertyValue name="posicion_x">681587</PropertyValue>
+		<PropertyValue name="posicion_y">4608443.32</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Barrio de la Cartuja. Refectorio de la Cartuja Inmaculada Concepción</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=169</PropertyValue>
+		<PropertyValue name="posicion_x">681585.7</PropertyValue>
+		<PropertyValue name="posicion_y">4608360.74</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Barrio de la Cartuja. Sala Capitular de los Hermanos de la Cartuja Inmaculada Concepción</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=176</PropertyValue>
+		<PropertyValue name="posicion_x">681586.8</PropertyValue>
+		<PropertyValue name="posicion_y">4608391.57</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Barrio de la Cartuja. Vestigios de la Cartuja Inmaculada Concepción</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=177</PropertyValue>
+		<PropertyValue name="posicion_x">681562.42</PropertyValue>
+		<PropertyValue name="posicion_y">4608288.72</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Barrio de Montañana. Iglesia de Ntra. Sra. del Rosario</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=105</PropertyValue>
+		<PropertyValue name="posicion_x">681124.78</PropertyValue>
+		<PropertyValue name="posicion_y">4617246.91</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Barrio de Monzalbarba. Ermita de la Sagrada</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=128</PropertyValue>
+		<PropertyValue name="posicion_x">669626.43</PropertyValue>
+		<PropertyValue name="posicion_y">4618632.59</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Barrio de Monzalbarba. Torre de la Antigua Iglesia</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=107</PropertyValue>
+		<PropertyValue name="posicion_x">669189.53</PropertyValue>
+		<PropertyValue name="posicion_y">4619023.21</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Barrio de Movera. Torre Santa Engracia</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=132</PropertyValue>
+		<PropertyValue name="posicion_x">682879.46</PropertyValue>
+		<PropertyValue name="posicion_y">4612601.82</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Barrio de Peñaflor. Iglesia de Ntra. Sra. del Coro de los Ángeles</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=141</PropertyValue>
+		<PropertyValue name="posicion_x">683141.79</PropertyValue>
+		<PropertyValue name="posicion_y">4625741.72</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Barrio de San Gregorio. Hospital de Enfermos del tórax</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=165</PropertyValue>
+		<PropertyValue name="posicion_x">678031.92</PropertyValue>
+		<PropertyValue name="posicion_y">4618060.31</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Barrio de Villamayor. c/ Iglesia Baja, nº 16-18</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=157</PropertyValue>
+		<PropertyValue name="posicion_x">685349.19</PropertyValue>
+		<PropertyValue name="posicion_y">4617414</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Barrio de Villamayor. Carnicería, nº 3 - Clavel</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=149</PropertyValue>
+		<PropertyValue name="posicion_x">685341.19</PropertyValue>
+		<PropertyValue name="posicion_y">4617363</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Barrio de Villamayor. Ermita de Ntra. Sra. del Pueyo</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=154</PropertyValue>
+		<PropertyValue name="posicion_x">685425.94</PropertyValue>
+		<PropertyValue name="posicion_y">4617615</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Basílica de Nuestra Señora del Pilar</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=32</PropertyValue>
+		<PropertyValue name="posicion_x">676764.33</PropertyValue>
+		<PropertyValue name="posicion_y">4614005.34</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Cámara de Comercio e Industria de Zaragoza</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=77</PropertyValue>
+		<PropertyValue name="posicion_x">675115.76</PropertyValue>
+		<PropertyValue name="posicion_y">4611855.47</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Canal Imperial de Aragón</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=96</PropertyValue>
+		<PropertyValue name="posicion_x">676270.21</PropertyValue>
+		<PropertyValue name="posicion_y">4611417.59</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Cartuja de Aula Dei</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=118</PropertyValue>
+		<PropertyValue name="posicion_x">681882.95</PropertyValue>
+		<PropertyValue name="posicion_y">4622590.45</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Cartuja de la Inmaculada Concepción</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=185</PropertyValue>
+		<PropertyValue name="posicion_x">681564.9</PropertyValue>
+		<PropertyValue name="posicion_y">4608397.49</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Casa Argensola o Mercadal</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=491</PropertyValue>
+		<PropertyValue name="posicion_x">676909.19</PropertyValue>
+		<PropertyValue name="posicion_y">4613646.5</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Casa c/Almagro, 5</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=497</PropertyValue>
+		<PropertyValue name="posicion_x">676003.63</PropertyValue>
+		<PropertyValue name="posicion_y">4613105</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Casa c/Armas. Escuela Municipal de Música y Danza II</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=499</PropertyValue>
+		<PropertyValue name="posicion_x">676251.88</PropertyValue>
+		<PropertyValue name="posicion_y">4614015</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Casa de Huarte  o de los Azara</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=24</PropertyValue>
+		<PropertyValue name="posicion_x">676926.68</PropertyValue>
+		<PropertyValue name="posicion_y">4613788.77</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Casa de los Morlanes</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=26</PropertyValue>
+		<PropertyValue name="posicion_x">676999.67</PropertyValue>
+		<PropertyValue name="posicion_y">4613489.75</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Casa de los Sitios</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=493</PropertyValue>
+		<PropertyValue name="posicion_x">677302</PropertyValue>
+		<PropertyValue name="posicion_y">4613440</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Casa de los Torrero</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=21</PropertyValue>
+		<PropertyValue name="posicion_x">676770.53</PropertyValue>
+		<PropertyValue name="posicion_y">4613741.93</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Casa de Palafox</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=51</PropertyValue>
+		<PropertyValue name="posicion_x">677072.37</PropertyValue>
+		<PropertyValue name="posicion_y">4613773.4</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Casa Juncosa</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=59</PropertyValue>
+		<PropertyValue name="posicion_x">676181.93</PropertyValue>
+		<PropertyValue name="posicion_y">4612562.02</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Casa Molins</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=57</PropertyValue>
+		<PropertyValue name="posicion_x">676478.13</PropertyValue>
+		<PropertyValue name="posicion_y">4613642.47</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Casa Retuerta</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=60</PropertyValue>
+		<PropertyValue name="posicion_x">676180.68</PropertyValue>
+		<PropertyValue name="posicion_y">4612545.51</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Casa Solans</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=80</PropertyValue>
+		<PropertyValue name="posicion_x">677637.22</PropertyValue>
+		<PropertyValue name="posicion_y">4614531.35</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Casa Tarín o Casa del Canal Imperial</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=50</PropertyValue>
+		<PropertyValue name="posicion_x">676738.34</PropertyValue>
+		<PropertyValue name="posicion_y">4613794.14</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Casino Mercantil</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=58</PropertyValue>
+		<PropertyValue name="posicion_x">676509.81</PropertyValue>
+		<PropertyValue name="posicion_y">4613610.6</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Catedral de San Salvador o la Seo</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=0</PropertyValue>
+		<PropertyValue name="posicion_x">676983.07</PropertyValue>
+		<PropertyValue name="posicion_y">4613874.35</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Centro de Historias de Zaragoza. Antiguo Convento de San Agustín</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=94</PropertyValue>
+		<PropertyValue name="posicion_x">677408.53</PropertyValue>
+		<PropertyValue name="posicion_y">4613410.17</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Confederación Hidrográfica del Ebro</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=551</PropertyValue>
+		<PropertyValue name="posicion_x">676153.75</PropertyValue>
+		<PropertyValue name="posicion_y">4612662.5</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Diputación Provincial de Zaragoza</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=75</PropertyValue>
+		<PropertyValue name="posicion_x">676504.63</PropertyValue>
+		<PropertyValue name="posicion_y">4613541.1</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Edificio c/Prudencio, 25</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=55</PropertyValue>
+		<PropertyValue name="posicion_x">676638.98</PropertyValue>
+		<PropertyValue name="posicion_y">4613955.3</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Edificio de Correos y Telégrafos</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=72</PropertyValue>
+		<PropertyValue name="posicion_x">676352.46</PropertyValue>
+		<PropertyValue name="posicion_y">4613204.69</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Edificio de la CREA</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=884</PropertyValue>
+		<PropertyValue name="posicion_x">675964.88</PropertyValue>
+		<PropertyValue name="posicion_y">4614669.5</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Edificio Pignatelli: Sede del Gobierno de Aragón</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=489</PropertyValue>
+		<PropertyValue name="posicion_x">675663.63</PropertyValue>
+		<PropertyValue name="posicion_y">4613605</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Edificio Puerta Cinegia</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=891</PropertyValue>
+		<PropertyValue name="posicion_x">676580.13</PropertyValue>
+		<PropertyValue name="posicion_y">4613567.5</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Esclusas del Canal Imperial</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=492</PropertyValue>
+		<PropertyValue name="posicion_x">674337.63</PropertyValue>
+		<PropertyValue name="posicion_y">4610811</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Escuela de Artes y Oficios</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=595</PropertyValue>
+		<PropertyValue name="posicion_x">676740.25</PropertyValue>
+		<PropertyValue name="posicion_y">4613112</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Escultura El Alma del Ebro</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=482</PropertyValue>
+		<PropertyValue name="posicion_x">675177.06</PropertyValue>
+		<PropertyValue name="posicion_y">4615428.5</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Estación Zaragoza Delicias</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=890</PropertyValue>
+		<PropertyValue name="posicion_x">674184.75</PropertyValue>
+		<PropertyValue name="posicion_y">4613907</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Estatua del Emperador Augusto</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=92</PropertyValue>
+		<PropertyValue name="posicion_x">676438.88</PropertyValue>
+		<PropertyValue name="posicion_y">4614043.73</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Fuente de la Hispanidad</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=189</PropertyValue>
+		<PropertyValue name="posicion_x">676566.08</PropertyValue>
+		<PropertyValue name="posicion_y">4614083.11</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Fuente de la Samaritana</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=188</PropertyValue>
+		<PropertyValue name="posicion_x">676498.52</PropertyValue>
+		<PropertyValue name="posicion_y">4613968.1</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Fuente de los Incrédulos</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=53</PropertyValue>
+		<PropertyValue name="posicion_x">674391.94</PropertyValue>
+		<PropertyValue name="posicion_y">4610943.34</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Fuente de Neptuno o Fuente de la Princesa</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=93</PropertyValue>
+		<PropertyValue name="posicion_x">675252.04</PropertyValue>
+		<PropertyValue name="posicion_y">4611640.27</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Galacho de Juslibol</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=97</PropertyValue>
+		<PropertyValue name="posicion_x">672319.04</PropertyValue>
+		<PropertyValue name="posicion_y">4619475.88</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Grupo Escolar Gascón y Marín</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=69</PropertyValue>
+		<PropertyValue name="posicion_x">676800.54</PropertyValue>
+		<PropertyValue name="posicion_y">4613228.62</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Grupo Escolar Joaquín Costa</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=70</PropertyValue>
+		<PropertyValue name="posicion_x">675672.44</PropertyValue>
+		<PropertyValue name="posicion_y">4613490.73</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Hospital Real y General de Nuestra Señora de Gracia</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=35</PropertyValue>
+		<PropertyValue name="posicion_x">676068.41</PropertyValue>
+		<PropertyValue name="posicion_y">4613504.77</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">IAACC  Pablo Serrano</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=64</PropertyValue>
+		<PropertyValue name="posicion_x">675798.24</PropertyValue>
+		<PropertyValue name="posicion_y">4613433.47</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Iglesia de la Exaltación de la Santa Cruz</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=45</PropertyValue>
+		<PropertyValue name="posicion_x">676768.43</PropertyValue>
+		<PropertyValue name="posicion_y">4613811.8</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Iglesia de las Fecetas o del antiguo Convento de las Carmelitas Descalzas de Santa Teresa</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=37</PropertyValue>
+		<PropertyValue name="posicion_x">675729.07</PropertyValue>
+		<PropertyValue name="posicion_y">4614181.5</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Iglesia de San Antonio de Padua</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=68</PropertyValue>
+		<PropertyValue name="posicion_x">676258.04</PropertyValue>
+		<PropertyValue name="posicion_y">4611533.62</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Iglesia de San Felipe y Santiago el Menor</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=36</PropertyValue>
+		<PropertyValue name="posicion_x">676445.81</PropertyValue>
+		<PropertyValue name="posicion_y">4613902.19</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Iglesia de San Fernando de Torrero</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=49</PropertyValue>
+		<PropertyValue name="posicion_x">676446.43</PropertyValue>
+		<PropertyValue name="posicion_y">4611579.3</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Iglesia de San Juan de los Panetes</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=33</PropertyValue>
+		<PropertyValue name="posicion_x">676510.91</PropertyValue>
+		<PropertyValue name="posicion_y">4614108.33</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Iglesia de San Nicolás de Bari</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=42</PropertyValue>
+		<PropertyValue name="posicion_x">677229.09</PropertyValue>
+		<PropertyValue name="posicion_y">4613771.53</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Iglesia de San Pablo</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=8</PropertyValue>
+		<PropertyValue name="posicion_x">676127.66</PropertyValue>
+		<PropertyValue name="posicion_y">4613965.81</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Iglesia de Santa Isabel de Portugal o San Cayetano</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=34</PropertyValue>
+		<PropertyValue name="posicion_x">676472.29</PropertyValue>
+		<PropertyValue name="posicion_y">4613949.43</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Iglesia de Santo Tomás de Aquino (Escuelas Pías)</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=43</PropertyValue>
+		<PropertyValue name="posicion_x">676265.16</PropertyValue>
+		<PropertyValue name="posicion_y">4613828.76</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Iglesia de Santo Tomás de Villanueva del antiguo convento de agustinos de la Mantería</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=39</PropertyValue>
+		<PropertyValue name="posicion_x">676375.76</PropertyValue>
+		<PropertyValue name="posicion_y">4613634.76</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Iglesia Parroquial de Nuestra Señora de Altabás</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=52</PropertyValue>
+		<PropertyValue name="posicion_x">677119.24</PropertyValue>
+		<PropertyValue name="posicion_y">4614344.05</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Iglesia Parroquial de Nuestra Señora del Portillo</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=41</PropertyValue>
+		<PropertyValue name="posicion_x">675564.69</PropertyValue>
+		<PropertyValue name="posicion_y">4613920.26</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Iglesia Parroquial de San Gil Abad</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=15</PropertyValue>
+		<PropertyValue name="posicion_x">676697.74</PropertyValue>
+		<PropertyValue name="posicion_y">4613595.33</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Iglesia Parroquial de San Ildefonso o de Santiago el Mayor</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=40</PropertyValue>
+		<PropertyValue name="posicion_x">676219.62</PropertyValue>
+		<PropertyValue name="posicion_y">4613571.59</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Iglesia Parroquial de San Miguel de los Navarros</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=14</PropertyValue>
+		<PropertyValue name="posicion_x">676934.85</PropertyValue>
+		<PropertyValue name="posicion_y">4613268.06</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Iglesia Parroquial de Santa Maria Magdalena</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=12</PropertyValue>
+		<PropertyValue name="posicion_x">677164.8</PropertyValue>
+		<PropertyValue name="posicion_y">4613566.53</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">La Lonja</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=18</PropertyValue>
+		<PropertyValue name="posicion_x">676904.81</PropertyValue>
+		<PropertyValue name="posicion_y">4613937.58</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Mercado Central</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=187</PropertyValue>
+		<PropertyValue name="posicion_x">676423.95</PropertyValue>
+		<PropertyValue name="posicion_y">4614022.92</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Monasterio de la Resurrección de canonesas del Santo Sepulcro</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=11</PropertyValue>
+		<PropertyValue name="posicion_x">677261.51</PropertyValue>
+		<PropertyValue name="posicion_y">4613722.17</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Monumento a Agustina Zaragoza y a las Heroínas</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=88</PropertyValue>
+		<PropertyValue name="posicion_x">675596.94</PropertyValue>
+		<PropertyValue name="posicion_y">4613888.98</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Monumento a Don Ramón Pignatelli</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=186</PropertyValue>
+		<PropertyValue name="posicion_x">674378.55</PropertyValue>
+		<PropertyValue name="posicion_y">4610921.71</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Monumento a Goya</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=91</PropertyValue>
+		<PropertyValue name="posicion_x">676893.72</PropertyValue>
+		<PropertyValue name="posicion_y">4613918.71</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Monumento a la Constitución Española de 1978</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=87</PropertyValue>
+		<PropertyValue name="posicion_x">676225.05</PropertyValue>
+		<PropertyValue name="posicion_y">4612972.49</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Monumento a los Mártires de la Religión y de la Patria</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=86</PropertyValue>
+		<PropertyValue name="posicion_x">676554.95</PropertyValue>
+		<PropertyValue name="posicion_y">4613522.65</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Monumento a Los Sitios</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=85</PropertyValue>
+		<PropertyValue name="posicion_x">676704.43</PropertyValue>
+		<PropertyValue name="posicion_y">4613177.62</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Monumento al Justiciazgo</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=90</PropertyValue>
+		<PropertyValue name="posicion_x">676251.3</PropertyValue>
+		<PropertyValue name="posicion_y">4613105.82</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Monumento al Rey Alfonso I El Batallador</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=89</PropertyValue>
+		<PropertyValue name="posicion_x">675579.51</PropertyValue>
+		<PropertyValue name="posicion_y">4611446.48</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Murallas Romanas</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=1</PropertyValue>
+		<PropertyValue name="posicion_x">676461</PropertyValue>
+		<PropertyValue name="posicion_y">4614073.91</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Museo de las Termas Públicas de Caesaraugusta</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=4</PropertyValue>
+		<PropertyValue name="posicion_x">676867.93</PropertyValue>
+		<PropertyValue name="posicion_y">4613684.1</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Museo del Foro de Caesaraugusta</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=2</PropertyValue>
+		<PropertyValue name="posicion_x">676934.75</PropertyValue>
+		<PropertyValue name="posicion_y">4613880.67</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Museo del Puerto Fluvial de Caesaraugusta</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=3</PropertyValue>
+		<PropertyValue name="posicion_x">677065.6</PropertyValue>
+		<PropertyValue name="posicion_y">4613893.92</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Museo del Teatro de Caesaraugusta</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=5</PropertyValue>
+		<PropertyValue name="posicion_x">676855.67</PropertyValue>
+		<PropertyValue name="posicion_y">4613592.3</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Museo Goya - Colección Ibercaja</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=29</PropertyValue>
+		<PropertyValue name="posicion_x">676764.86</PropertyValue>
+		<PropertyValue name="posicion_y">4613821.75</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Museo Provincial de Zaragoza: Sección de Etnología y Cerámica.</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=65</PropertyValue>
+		<PropertyValue name="posicion_x">675176.01</PropertyValue>
+		<PropertyValue name="posicion_y">4611771.82</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Museo Provincial de Zaragoza: Secciones de Antigüedad  y Bellas Artes</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=63</PropertyValue>
+		<PropertyValue name="posicion_x">676740.27</PropertyValue>
+		<PropertyValue name="posicion_y">4613111.97</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Pabellón de Aragón</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=476</PropertyValue>
+		<PropertyValue name="posicion_x">675092.94</PropertyValue>
+		<PropertyValue name="posicion_y">4615536.5</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Pabellón de España</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=474</PropertyValue>
+		<PropertyValue name="posicion_x">675096.19</PropertyValue>
+		<PropertyValue name="posicion_y">4615535.5</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Pabellón Puente</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=468</PropertyValue>
+		<PropertyValue name="posicion_x">674519.63</PropertyValue>
+		<PropertyValue name="posicion_y">4615125</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Palacio Arzobispal</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=48</PropertyValue>
+		<PropertyValue name="posicion_x">676984.82</PropertyValue>
+		<PropertyValue name="posicion_y">4613895.88</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Palacio de Armijo o de Robres</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=23</PropertyValue>
+		<PropertyValue name="posicion_x">676993.6</PropertyValue>
+		<PropertyValue name="posicion_y">4613732.29</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Palacio de Congresos de Aragón</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=479</PropertyValue>
+		<PropertyValue name="posicion_x">674393.69</PropertyValue>
+		<PropertyValue name="posicion_y">4615337</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Palacio de Fuenclara</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=486</PropertyValue>
+		<PropertyValue name="posicion_x">676443.75</PropertyValue>
+		<PropertyValue name="posicion_y">4613743.5</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Palacio de la Aljafería</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=7</PropertyValue>
+		<PropertyValue name="posicion_x">675255.77</PropertyValue>
+		<PropertyValue name="posicion_y">4614007.66</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Palacio de la Real Maestranza de Caballería - Antigua Casa de Miguel Donlope</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=25</PropertyValue>
+		<PropertyValue name="posicion_x">676928.56</PropertyValue>
+		<PropertyValue name="posicion_y">4613801.16</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Palacio de Larrinaga</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=81</PropertyValue>
+		<PropertyValue name="posicion_x">677940.41</PropertyValue>
+		<PropertyValue name="posicion_y">4612021.61</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Palacio de los Condes de Argillo. Museo Pablo Gargallo</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=30</PropertyValue>
+		<PropertyValue name="posicion_x">676431.62</PropertyValue>
+		<PropertyValue name="posicion_y">4613820.91</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Palacio de los Condes de Morata o Luna</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=19</PropertyValue>
+		<PropertyValue name="posicion_x">676331.33</PropertyValue>
+		<PropertyValue name="posicion_y">4613731.92</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Palacio de los Condes de Sástago</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=20</PropertyValue>
+		<PropertyValue name="posicion_x">676490.42</PropertyValue>
+		<PropertyValue name="posicion_y">4613599.25</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Palacio de los Condes de Sobradiel o de Gabarda</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=47</PropertyValue>
+		<PropertyValue name="posicion_x">676465.17</PropertyValue>
+		<PropertyValue name="posicion_y">4613970.12</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Palacio de los Marqueses de Montemuzo</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=22</PropertyValue>
+		<PropertyValue name="posicion_x">676829.21</PropertyValue>
+		<PropertyValue name="posicion_y">4613844.62</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Palacio de Villahermosa</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=44</PropertyValue>
+		<PropertyValue name="posicion_x">676207.04</PropertyValue>
+		<PropertyValue name="posicion_y">4614125.14</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Parque Grande José Antonio Labordeta</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=95</PropertyValue>
+		<PropertyValue name="posicion_x">675240.49</PropertyValue>
+		<PropertyValue name="posicion_y">4611805.95</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Parque Metropolitano del Agua Luis Buñuel</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=483</PropertyValue>
+		<PropertyValue name="posicion_x">673805.06</PropertyValue>
+		<PropertyValue name="posicion_y">4615345</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Pasarela del Voluntariado</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=887</PropertyValue>
+		<PropertyValue name="posicion_x">675390.56</PropertyValue>
+		<PropertyValue name="posicion_y">4614973.5</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Pastelería-Confintería La Flor de Almíbar o Fantoba</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=498</PropertyValue>
+		<PropertyValue name="posicion_x">676752.81</PropertyValue>
+		<PropertyValue name="posicion_y">4613649</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Patio de la Infanta</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=28</PropertyValue>
+		<PropertyValue name="posicion_x">676309.64</PropertyValue>
+		<PropertyValue name="posicion_y">4612911.36</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Plaza de Toros de la Misericordia</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=82</PropertyValue>
+		<PropertyValue name="posicion_x">675711.66</PropertyValue>
+		<PropertyValue name="posicion_y">4613775.91</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Portada de la Iglesia Basílica de Santa Engracia</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=27</PropertyValue>
+		<PropertyValue name="posicion_x">676412.39</PropertyValue>
+		<PropertyValue name="posicion_y">4613188.59</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Puente de Hierro  o Puente del Pilar</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=83</PropertyValue>
+		<PropertyValue name="posicion_x">677350.76</PropertyValue>
+		<PropertyValue name="posicion_y">4613822.82</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Puente de la Almozara</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=889</PropertyValue>
+		<PropertyValue name="posicion_x">675757.94</PropertyValue>
+		<PropertyValue name="posicion_y">4614539</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Puente de la Unión</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=885</PropertyValue>
+		<PropertyValue name="posicion_x">678103.81</PropertyValue>
+		<PropertyValue name="posicion_y">4613636.5</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Puente de Piedra</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=9</PropertyValue>
+		<PropertyValue name="posicion_x">676966.14</PropertyValue>
+		<PropertyValue name="posicion_y">4613993.15</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Puente de Santiago</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=84</PropertyValue>
+		<PropertyValue name="posicion_x">676504.66</PropertyValue>
+		<PropertyValue name="posicion_y">4614351.18</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Puente del Tercer Milenio</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=888</PropertyValue>
+		<PropertyValue name="posicion_x">674235.31</PropertyValue>
+		<PropertyValue name="posicion_y">4614964.5</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Puente Manuel Giménez Abad</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=886</PropertyValue>
+		<PropertyValue name="posicion_x">678755.19</PropertyValue>
+		<PropertyValue name="posicion_y">4613439.5</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Puerta del Carmen</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=46</PropertyValue>
+		<PropertyValue name="posicion_x">676013.45</PropertyValue>
+		<PropertyValue name="posicion_y">4613265.81</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Quiosco de la Música</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=61</PropertyValue>
+		<PropertyValue name="posicion_x">675463.07</PropertyValue>
+		<PropertyValue name="posicion_y">4611699.94</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Real Convento de San Lázaro de los  Religiosos Mercedarios</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=509</PropertyValue>
+		<PropertyValue name="posicion_x">677046.25</PropertyValue>
+		<PropertyValue name="posicion_y">4614219.5</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Real Seminario de San Carlos Borromeo.</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=38</PropertyValue>
+		<PropertyValue name="posicion_x">676992.23</PropertyValue>
+		<PropertyValue name="posicion_y">4613463.62</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Sarcófagos paleocristianos de la cripta de Santa Engracia</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=485</PropertyValue>
+		<PropertyValue name="posicion_x">676408.31</PropertyValue>
+		<PropertyValue name="posicion_y">4613156</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Sede de la  Santa y Real Hermandad del Refugio</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=487</PropertyValue>
+		<PropertyValue name="posicion_x">675601.19</PropertyValue>
+		<PropertyValue name="posicion_y">4613398.5</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Soto de Cantalobos</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=99</PropertyValue>
+		<PropertyValue name="posicion_x">680047.04</PropertyValue>
+		<PropertyValue name="posicion_y">4612877.95</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Teatro del Mercado</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=67</PropertyValue>
+		<PropertyValue name="posicion_x">675873.42</PropertyValue>
+		<PropertyValue name="posicion_y">4614057.49</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Teatro Principal</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=66</PropertyValue>
+		<PropertyValue name="posicion_x">676679.96</PropertyValue>
+		<PropertyValue name="posicion_y">4613503.02</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Torre del Agua</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=471</PropertyValue>
+		<PropertyValue name="posicion_x">674294.31</PropertyValue>
+		<PropertyValue name="posicion_y">4615502.5</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Torreón de Fortea</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=17</PropertyValue>
+		<PropertyValue name="posicion_x">676466.54</PropertyValue>
+		<PropertyValue name="posicion_y">4613829.93</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+	<Feature type="PuntosDeInteres">
+		<PropertyValue name="nombre">Torreón de la Zuda</PropertyValue>
+		<PropertyValue name="url">http://www.zaragoza.es/ciudad/vistasciudad/detalle_Monumento?id=16</PropertyValue>
+		<PropertyValue name="posicion_x">676488.13</PropertyValue>
+		<PropertyValue name="posicion_y">4614130.43</PropertyValue>
+		<PropertyValue name="icono_grande">http://www.zaragoza.es/contenidos/iconos/monumentos20.png</PropertyValue>
+	</Feature>
+</FeatureCollection>
