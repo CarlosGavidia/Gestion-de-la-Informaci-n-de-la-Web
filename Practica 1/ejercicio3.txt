@@ -1,0 +1,60 @@
+#Definicion de la funcion que abrira el fichero y contara el numero de veces que aparece cada palabra
+def contadorPalabras():
+
+    diccionario = dict() #Diccionario donde guardaremos las palabras del texto como claves y el numero de veces que aparecen como su valor
+    
+    nombreArchivo = input("Introducir nombre del archivo: ") #Introducimos el nombre del fichero que queremos leer
+    lectura = open(nombreArchivo) #Lo abrimos
+    
+    listaPunt = ['-',',','.',';',':','"','?','!'] #Lista de los signos de puntuacion que debemos eliminar
+    #Lista de conjunciones, preposiciones y articulos que debemos eliminar
+    listaIgnorados = ['y','o','e','u','el','la','los','las','un','una','unos','unas','a','ante','bajo','con','contra','de','desde','en','entre','durante','hasta','para','por','según','sin','sobre','tras','mediante']
+    separador = " " #Separador por el que se uniran todas las palabras del texto
+    
+    #Tratamiento del texto
+    for linea in lectura:
+        linea = linea.rstrip() #Eliminamos los saltos de linea
+        
+    linea = linea.lower() #Pasamos todas las palabras a minuscula para que no haya distinciones
+    
+    #Comezamos a eliminar todos los signos de puntuacion que pueden acompañar a las palabras
+    for s in listaPunt:
+        linea = linea.split(s) #Separamos la palabras por el signo de puntuacion
+        linea = separador.join(linea) #Y volvemos a juntarlas colocando un espacio en blanco en su lugar
+    #Hasta ahora el texto sigue completo
+    
+    linea = linea.split() #Es en este momento en el que tenemos todas las palabras limpias y la separamos por los espacios en blanco, quedandonos cada palabra por separado en una lista
+   
+    #Empezamos a introducir las palabras en el diccionario y a contar cuantas veces aparecen
+    for i in linea:
+        if i in listaIgnorados: #Si la palabra que vamos a tratar es una de las que debamos ignorar:
+            continue #Pasamos directamente a la siguiente iteracion del bucle
+        #Si no lo es:
+        if i in diccionario: #Comprobamos si ya esta en el diccionario
+            diccionario[i] = diccionario[i]+1 #Y le sumamos uno a su valor si ya estaba
+        else:
+            diccionario[i] = 1 #O lo introducimos con valor 1 si no se encontraba anteriormente
+    
+    #Pasamos a escribir los resultados en un nuevo fichero
+    archivoSalida = "numPalabras.txt" #Nombre del fichero
+    
+    arc_write = open(archivoSalida, 'w') #Abrimos el fichero en modo escritura
+    
+    #Recorremos todos los pares clave valor del diccinoario
+    for palabra, veces in diccionario.items():    
+        arc_write.write(palabra + ": " + str(veces) + '\n') #Y los escribimos en el fichero
+        
+    arc_write.close() #Cerramos el fichero de escritura
+    
+    return archivoSalida #Y devolvemos el nombre del fichero salida para poder abrirlo con otra funcion que nos mostrara el resultado
+    
+    
+#Definicion de la funcion que mostrara por pantalla lo que hemos escrito en el fichero de salida como solucion
+def verResultado(archivo):
+    lineas = open(archivo).readlines() #Abre y lee el fichero cuyo nombre le pasamos por parametro
+    print(lineas) #Y lo mostramos
+    
+    
+#Llamadas a las funciones    
+archivoSalida = contadorPalabras() #Guardamos en la variable el nombre del fichero donde hemos escrito la solucion
+verResultado(archivoSalida) #Y se la pasamos como parametro para poder visualizarlo
