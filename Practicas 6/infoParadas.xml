@@ -1,0 +1,5425 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Output>
+  <Site>
+    <Type>C</Type>
+    <Id>11100354</Id>
+    <Description>DOCTOR SALGADO</Description>
+    <StreetType>CALLE</StreetType>
+    <NumberType>NUM</NumberType>
+    <StreetNumber>44</StreetNumber>
+    <ZipCode>28038</ZipCode>
+    <CoordinateX>-3.66312828106244</CoordinateX>
+    <CoordinateY>40.399702018941</CoordinateY>
+    <Stop>
+      <IdStop>3314</IdStop>
+      <PMV>
+      </PMV>
+      <Name>MENDIVIL-DOCTOR SALGADO</Name>
+      <PostalAdress>Mendivil, 48</PostalAdress>
+      <CoordinateX>-3.66353188881069</CoordinateX>
+      <CoordinateY>40.3995782651615</CoordinateY>
+      <Line>
+        <IdLine>008</IdLine>
+        <Label>8</Label>
+        <HeaderA>LEGAZPI</HeaderA>
+        <HeaderB>VALDEBERNARDO</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:30</StartTime>
+        <StopTime>23:55</StopTime>
+        <MinimunFrequency>9</MinimunFrequency>
+        <MaximumFrequency>16</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>113</IdLine>
+        <Label>113</Label>
+        <HeaderA>MENDEZ ALVARO</HeaderA>
+        <HeaderB>CIUDAD LINEAL</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:55</StartTime>
+        <StopTime>
+        </StopTime>
+        <MinimunFrequency>8</MinimunFrequency>
+        <MaximumFrequency>19</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>141</IdLine>
+        <Label>141</Label>
+        <HeaderA>ATOCHA RENFE</HeaderA>
+        <HeaderB>BUENOS AIRES</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:43</StartTime>
+        <StopTime>23:07</StopTime>
+        <MinimunFrequency>11</MinimunFrequency>
+        <MaximumFrequency>22</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>De 6:00 a 8:00 -&gt; cada 11 - 22 min.
+De 8:00 a 21:00 -&gt; cada 11 - 14 min.
+De 21:00 a 23:00 -&gt; cada 13 - 19 min.
+</FrequencyS1>
+        <FrequencyS2>De 6:00 a 8:00 -&gt; cada 11 - 22 min.
+De 8:00 a 21:00 -&gt; cada 11 - 14 min.
+De 21:00 a 23:00 -&gt; cada 13 - 19 min.
+</FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>3329</IdStop>
+      <PMV>
+      </PMV>
+      <Name>Cº VALDERRIBAS-DR.SALGADO</Name>
+      <PostalAdress>Cº de Valderribas, 61</PostalAdress>
+      <CoordinateX>-3.66333860024273</CoordinateX>
+      <CoordinateY>40.4001469442105</CoordinateY>
+      <Line>
+        <IdLine>141</IdLine>
+        <Label>141</Label>
+        <HeaderA>ATOCHA RENFE</HeaderA>
+        <HeaderB>BUENOS AIRES</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:06</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>11</MinimunFrequency>
+        <MaximumFrequency>22</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>De 6:00 a 8:00 -&gt; cada 11 - 22 min.
+De 8:00 a 21:00 -&gt; cada 11 - 14 min.
+De 21:00 a 23:00 -&gt; cada 13 - 19 min.
+</FrequencyS1>
+        <FrequencyS2>De 6:00 a 8:00 -&gt; cada 11 - 22 min.
+De 8:00 a 21:00 -&gt; cada 11 - 14 min.
+De 21:00 a 23:00 -&gt; cada 13 - 19 min.
+</FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>3316</IdStop>
+      <PMV>
+      </PMV>
+      <Name>SIERRA TOLEDANA-Cº VALDERRIBAS</Name>
+      <PostalAdress>Sierra Toledana, 3</PostalAdress>
+      <CoordinateX>-3.66079994919304</CoordinateX>
+      <CoordinateY>40.3997470373705</CoordinateY>
+      <Line>
+        <IdLine>141</IdLine>
+        <Label>141</Label>
+        <HeaderA>ATOCHA RENFE</HeaderA>
+        <HeaderB>BUENOS AIRES</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:06</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>11</MinimunFrequency>
+        <MaximumFrequency>22</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>De 6:00 a 8:00 -&gt; cada 11 - 22 min.
+De 8:00 a 21:00 -&gt; cada 11 - 14 min.
+De 21:00 a 23:00 -&gt; cada 13 - 19 min.
+</FrequencyS1>
+        <FrequencyS2>De 6:00 a 8:00 -&gt; cada 11 - 22 min.
+De 8:00 a 21:00 -&gt; cada 11 - 14 min.
+De 21:00 a 23:00 -&gt; cada 13 - 19 min.
+</FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>3315</IdStop>
+      <PMV>
+      </PMV>
+      <Name>SIERRA TOLEDANA-Cº VALDERRIBAS</Name>
+      <PostalAdress>Sierra Toledana frente al Nº 1</PostalAdress>
+      <CoordinateX>-3.66063334724891</CoordinateX>
+      <CoordinateY>40.3993921290593</CoordinateY>
+      <Line>
+        <IdLine>008</IdLine>
+        <Label>8</Label>
+        <HeaderA>LEGAZPI</HeaderA>
+        <HeaderB>VALDEBERNARDO</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:30</StartTime>
+        <StopTime>23:55</StopTime>
+        <MinimunFrequency>9</MinimunFrequency>
+        <MaximumFrequency>16</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>113</IdLine>
+        <Label>113</Label>
+        <HeaderA>MENDEZ ALVARO</HeaderA>
+        <HeaderB>CIUDAD LINEAL</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:55</StartTime>
+        <StopTime>
+        </StopTime>
+        <MinimunFrequency>8</MinimunFrequency>
+        <MaximumFrequency>19</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>141</IdLine>
+        <Label>141</Label>
+        <HeaderA>ATOCHA RENFE</HeaderA>
+        <HeaderB>BUENOS AIRES</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:43</StartTime>
+        <StopTime>23:07</StopTime>
+        <MinimunFrequency>11</MinimunFrequency>
+        <MaximumFrequency>22</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>De 6:00 a 8:00 -&gt; cada 11 - 22 min.
+De 8:00 a 21:00 -&gt; cada 11 - 14 min.
+De 21:00 a 23:00 -&gt; cada 13 - 19 min.
+</FrequencyS1>
+        <FrequencyS2>De 6:00 a 8:00 -&gt; cada 11 - 22 min.
+De 8:00 a 21:00 -&gt; cada 11 - 14 min.
+De 21:00 a 23:00 -&gt; cada 13 - 19 min.
+</FrequencyS2>
+      </Line>
+    </Stop>
+  </Site>
+  <Site>
+    <Type>C</Type>
+    <Id>11012185</Id>
+    <Description>DOCTOR ESQUERDO</Description>
+    <StreetType>CALLE</StreetType>
+    <NumberType>NUM</NumberType>
+    <StreetNumber>44</StreetNumber>
+    <ZipCode>28007</ZipCode>
+    <CoordinateX>-3.66930486080236</CoordinateX>
+    <CoordinateY>40.4206739103221</CoordinateY>
+    <Stop>
+      <IdStop>5822</IdStop>
+      <PMV>
+      </PMV>
+      <Name>DOCTOR ESQUERDO-O DONNELL</Name>
+      <PostalAdress>Dr. Esquerdo, 57</PostalAdress>
+      <CoordinateX>-3.66886798445917</CoordinateX>
+      <CoordinateY>40.4204891362583</CoordinateY>
+      <Line>
+        <IdLine>002</IdLine>
+        <Label>2</Label>
+        <HeaderA>MANUEL BECERRA</HeaderA>
+        <HeaderB>REINA VICTORIA</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:00</StartTime>
+        <StopTime>00:19</StopTime>
+        <MinimunFrequency>6</MinimunFrequency>
+        <MaximumFrequency>15</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>030</IdLine>
+        <Label>30</Label>
+        <HeaderA>FELIPE II</HeaderA>
+        <HeaderB>PAVONES</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:15</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>6</MinimunFrequency>
+        <MaximumFrequency>15</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>056</IdLine>
+        <Label>56</Label>
+        <HeaderA>DIEGO DE LEON</HeaderA>
+        <HeaderB>PUENTE VALLECAS</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:25</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>6</MinimunFrequency>
+        <MaximumFrequency>14</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>143</IdLine>
+        <Label>143</Label>
+        <HeaderA>MANUEL BECERRA</HeaderA>
+        <HeaderB>VILLA VALLECAS</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:10</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>6</MinimunFrequency>
+        <MaximumFrequency>19</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>156</IdLine>
+        <Label>156</Label>
+        <HeaderA>MANUEL BECERRA</HeaderA>
+        <HeaderB>LEGAZPI</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:00</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>9</MinimunFrequency>
+        <MaximumFrequency>19</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>153</IdStop>
+      <PMV>61043</PMV>
+      <Name>Metro O Donnell</Name>
+      <PostalAdress>O Donnell, 52  frente al Nº 61</PostalAdress>
+      <CoordinateX>-3.66951034477137</CoordinateX>
+      <CoordinateY>40.4211881300159</CoordinateY>
+      <Line>
+        <IdLine>028</IdLine>
+        <Label>28</Label>
+        <HeaderA>PUERTA ALCALA</HeaderA>
+        <HeaderB>Bº CANILLEJAS</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:30</StartTime>
+        <StopTime>---</StopTime>
+        <MinimunFrequency>4</MinimunFrequency>
+        <MaximumFrequency>12</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>203</IdLine>
+        <Label>203</Label>
+        <HeaderA>ATOCHA RENFE</HeaderA>
+        <HeaderB>AEROPUERTO</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:00</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>15</MinimunFrequency>
+        <MaximumFrequency>21</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>402</IdLine>
+        <Label>E2</Label>
+        <HeaderA>FELIPE II</HeaderA>
+        <HeaderB>LAS ROSAS</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:35</StartTime>
+        <StopTime>23:05</StopTime>
+        <MinimunFrequency>10</MinimunFrequency>
+        <MaximumFrequency>19</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>403</IdLine>
+        <Label>E3</Label>
+        <HeaderA>FELIPE II</HeaderA>
+        <HeaderB>VALDERRIVAS</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:35</StartTime>
+        <StopTime>23:52</StopTime>
+        <MinimunFrequency>4</MinimunFrequency>
+        <MaximumFrequency>15</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>506</IdLine>
+        <Label>N6</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>LAS ROSAS</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:15</StartTime>
+        <StopTime>05:40</StopTime>
+        <MinimunFrequency>35</MinimunFrequency>
+        <MaximumFrequency>35</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>527</IdLine>
+        <Label>N27</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>AEROPUERTO</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:50</StartTime>
+        <StopTime>06:05</StopTime>
+        <MinimunFrequency>25</MinimunFrequency>
+        <MaximumFrequency>35</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>152</IdStop>
+      <PMV>
+      </PMV>
+      <Name>Doctor Esquerdo-O Donnell</Name>
+      <PostalAdress>O Donnell, 61</PostalAdress>
+      <CoordinateX>-3.66951284088333</CoordinateX>
+      <CoordinateY>40.4214403688043</CoordinateY>
+      <Line>
+        <IdLine>028</IdLine>
+        <Label>28</Label>
+        <HeaderA>PUERTA ALCALA</HeaderA>
+        <HeaderB>Bº CANILLEJAS</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:00</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>4</MinimunFrequency>
+        <MaximumFrequency>12</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>506</IdLine>
+        <Label>N6</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>LAS ROSAS</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:55</StartTime>
+        <StopTime>05:10</StopTime>
+        <MinimunFrequency>35</MinimunFrequency>
+        <MaximumFrequency>35</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>5620</IdStop>
+      <PMV>
+      </PMV>
+      <Name>METRO O DONNELL</Name>
+      <PostalAdress>ODonnell con C/ Dr. Esquerdo.</PostalAdress>
+      <CoordinateX>-3.66828166306363</CoordinateX>
+      <CoordinateY>40.4212853169496</CoordinateY>
+      <Line>
+        <IdLine>203</IdLine>
+        <Label>203</Label>
+        <HeaderA>ATOCHA RENFE</HeaderA>
+        <HeaderB>AEROPUERTO</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:00</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>15</MinimunFrequency>
+        <MaximumFrequency>21</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>402</IdLine>
+        <Label>E2</Label>
+        <HeaderA>FELIPE II</HeaderA>
+        <HeaderB>LAS ROSAS</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:00</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>10</MinimunFrequency>
+        <MaximumFrequency>19</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>403</IdLine>
+        <Label>E3</Label>
+        <HeaderA>FELIPE II</HeaderA>
+        <HeaderB>VALDERRIVAS</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:00</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>4</MinimunFrequency>
+        <MaximumFrequency>15</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>404</IdLine>
+        <Label>E4</Label>
+        <HeaderA>FELIPE II</HeaderA>
+        <HeaderB>VALDEBERNARDO</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:00</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>8</MinimunFrequency>
+        <MaximumFrequency>19</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>527</IdLine>
+        <Label>N27</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>AEROPUERTO</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:55</StartTime>
+        <StopTime>06:15</StopTime>
+        <MinimunFrequency>25</MinimunFrequency>
+        <MaximumFrequency>35</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>150</IdStop>
+      <PMV>61042</PMV>
+      <Name>Casa de la Moneda</Name>
+      <PostalAdress>Doctor Esquerdo, 40 (frente Nº 51 con C/ Duque de Sesto</PostalAdress>
+      <CoordinateX>-3.6691885847369</CoordinateX>
+      <CoordinateY>40.4220278306811</CoordinateY>
+      <Line>
+        <IdLine>002</IdLine>
+        <Label>2</Label>
+        <HeaderA>MANUEL BECERRA</HeaderA>
+        <HeaderB>REINA VICTORIA</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:30</StartTime>
+        <StopTime>00:20</StopTime>
+        <MinimunFrequency>6</MinimunFrequency>
+        <MaximumFrequency>15</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>030</IdLine>
+        <Label>30</Label>
+        <HeaderA>FELIPE II</HeaderA>
+        <HeaderB>PAVONES</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:45</StartTime>
+        <StopTime>23:00</StopTime>
+        <MinimunFrequency>6</MinimunFrequency>
+        <MaximumFrequency>15</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>056</IdLine>
+        <Label>56</Label>
+        <HeaderA>DIEGO DE LEON</HeaderA>
+        <HeaderB>PUENTE VALLECAS</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:05</StartTime>
+        <StopTime>23:52</StopTime>
+        <MinimunFrequency>6</MinimunFrequency>
+        <MaximumFrequency>14</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>071</IdLine>
+        <Label>71</Label>
+        <HeaderA>MANUEL BECERRA</HeaderA>
+        <HeaderB>PUERTA ARGANDA</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:50</StartTime>
+        <StopTime>00:08</StopTime>
+        <MinimunFrequency>10</MinimunFrequency>
+        <MaximumFrequency>30</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>143</IdLine>
+        <Label>143</Label>
+        <HeaderA>MANUEL BECERRA</HeaderA>
+        <HeaderB>VILLA VALLECAS</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:45</StartTime>
+        <StopTime>23:02</StopTime>
+        <MinimunFrequency>6</MinimunFrequency>
+        <MaximumFrequency>19</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>156</IdLine>
+        <Label>156</Label>
+        <HeaderA>MANUEL BECERRA</HeaderA>
+        <HeaderB>LEGAZPI</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:30</StartTime>
+        <StopTime>23:05</StopTime>
+        <MinimunFrequency>9</MinimunFrequency>
+        <MaximumFrequency>19</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>404</IdLine>
+        <Label>E4</Label>
+        <HeaderA>FELIPE II</HeaderA>
+        <HeaderB>VALDEBERNARDO</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:35</StartTime>
+        <StopTime>23:50</StopTime>
+        <MinimunFrequency>8</MinimunFrequency>
+        <MaximumFrequency>19</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>4656</IdStop>
+      <PMV>
+      </PMV>
+      <Name>O DONNELL-ITURBE</Name>
+      <PostalAdress>O Donnell con C/ Iturbe.</PostalAdress>
+      <CoordinateX>-3.6673287009548</CoordinateX>
+      <CoordinateY>40.4211016220448</CoordinateY>
+      <Line>
+        <IdLine>028</IdLine>
+        <Label>28</Label>
+        <HeaderA>PUERTA ALCALA</HeaderA>
+        <HeaderB>Bº CANILLEJAS</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:00</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>4</MinimunFrequency>
+        <MaximumFrequency>12</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>071</IdLine>
+        <Label>71</Label>
+        <HeaderA>MANUEL BECERRA</HeaderA>
+        <HeaderB>PUERTA ARGANDA</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:30</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>10</MinimunFrequency>
+        <MaximumFrequency>30</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>151</IdStop>
+      <PMV>61357</PMV>
+      <Name>Casa de la Moneda</Name>
+      <PostalAdress>Doctor Esquerdo, 49</PostalAdress>
+      <CoordinateX>-3.66871259753054</CoordinateX>
+      <CoordinateY>40.4227693215273</CoordinateY>
+      <Line>
+        <IdLine>002</IdLine>
+        <Label>2</Label>
+        <HeaderA>MANUEL BECERRA</HeaderA>
+        <HeaderB>REINA VICTORIA</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:00</StartTime>
+        <StopTime>00:19</StopTime>
+        <MinimunFrequency>6</MinimunFrequency>
+        <MaximumFrequency>15</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>030</IdLine>
+        <Label>30</Label>
+        <HeaderA>FELIPE II</HeaderA>
+        <HeaderB>PAVONES</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:15</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>6</MinimunFrequency>
+        <MaximumFrequency>15</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>056</IdLine>
+        <Label>56</Label>
+        <HeaderA>DIEGO DE LEON</HeaderA>
+        <HeaderB>PUENTE VALLECAS</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:25</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>6</MinimunFrequency>
+        <MaximumFrequency>14</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>071</IdLine>
+        <Label>71</Label>
+        <HeaderA>MANUEL BECERRA</HeaderA>
+        <HeaderB>PUERTA ARGANDA</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:30</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>10</MinimunFrequency>
+        <MaximumFrequency>30</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>143</IdLine>
+        <Label>143</Label>
+        <HeaderA>MANUEL BECERRA</HeaderA>
+        <HeaderB>VILLA VALLECAS</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:10</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>6</MinimunFrequency>
+        <MaximumFrequency>19</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>156</IdLine>
+        <Label>156</Label>
+        <HeaderA>MANUEL BECERRA</HeaderA>
+        <HeaderB>LEGAZPI</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:00</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>9</MinimunFrequency>
+        <MaximumFrequency>19</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>1256</IdStop>
+      <PMV>61066</PMV>
+      <Name>HOSPITAL GREGORIO MARAÑON</Name>
+      <PostalAdress>Doctor Esquerdo, 46</PostalAdress>
+      <CoordinateX>-3.66948306788969</CoordinateX>
+      <CoordinateY>40.4184315196719</CoordinateY>
+      <Line>
+        <IdLine>002</IdLine>
+        <Label>2</Label>
+        <HeaderA>MANUEL BECERRA</HeaderA>
+        <HeaderB>REINA VICTORIA</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:30</StartTime>
+        <StopTime>00:20</StopTime>
+        <MinimunFrequency>6</MinimunFrequency>
+        <MaximumFrequency>15</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>030</IdLine>
+        <Label>30</Label>
+        <HeaderA>FELIPE II</HeaderA>
+        <HeaderB>PAVONES</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:45</StartTime>
+        <StopTime>23:00</StopTime>
+        <MinimunFrequency>6</MinimunFrequency>
+        <MaximumFrequency>15</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>056</IdLine>
+        <Label>56</Label>
+        <HeaderA>DIEGO DE LEON</HeaderA>
+        <HeaderB>PUENTE VALLECAS</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:05</StartTime>
+        <StopTime>23:52</StopTime>
+        <MinimunFrequency>6</MinimunFrequency>
+        <MaximumFrequency>14</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>143</IdLine>
+        <Label>143</Label>
+        <HeaderA>MANUEL BECERRA</HeaderA>
+        <HeaderB>VILLA VALLECAS</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:45</StartTime>
+        <StopTime>23:02</StopTime>
+        <MinimunFrequency>6</MinimunFrequency>
+        <MaximumFrequency>19</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>156</IdLine>
+        <Label>156</Label>
+        <HeaderA>MANUEL BECERRA</HeaderA>
+        <HeaderB>LEGAZPI</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:30</StartTime>
+        <StopTime>23:05</StopTime>
+        <MinimunFrequency>9</MinimunFrequency>
+        <MaximumFrequency>19</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>1257</IdStop>
+      <PMV>
+      </PMV>
+      <Name>HOSPITAL GREGORIO MARAÑON</Name>
+      <PostalAdress>Doctor Esquerdo, 81</PostalAdress>
+      <CoordinateX>-3.66905775957116</CoordinateX>
+      <CoordinateY>40.418334877935</CoordinateY>
+      <Line>
+        <IdLine>002</IdLine>
+        <Label>2</Label>
+        <HeaderA>MANUEL BECERRA</HeaderA>
+        <HeaderB>REINA VICTORIA</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:00</StartTime>
+        <StopTime>00:19</StopTime>
+        <MinimunFrequency>6</MinimunFrequency>
+        <MaximumFrequency>15</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>030</IdLine>
+        <Label>30</Label>
+        <HeaderA>FELIPE II</HeaderA>
+        <HeaderB>PAVONES</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:15</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>6</MinimunFrequency>
+        <MaximumFrequency>15</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>056</IdLine>
+        <Label>56</Label>
+        <HeaderA>DIEGO DE LEON</HeaderA>
+        <HeaderB>PUENTE VALLECAS</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:25</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>6</MinimunFrequency>
+        <MaximumFrequency>14</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>143</IdLine>
+        <Label>143</Label>
+        <HeaderA>MANUEL BECERRA</HeaderA>
+        <HeaderB>VILLA VALLECAS</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:10</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>6</MinimunFrequency>
+        <MaximumFrequency>19</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>156</IdLine>
+        <Label>156</Label>
+        <HeaderA>MANUEL BECERRA</HeaderA>
+        <HeaderB>LEGAZPI</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:00</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>9</MinimunFrequency>
+        <MaximumFrequency>19</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>950</IdStop>
+      <PMV>
+      </PMV>
+      <Name>O DONNELL-SALIENTE</Name>
+      <PostalAdress>O Donnell S/N con C/ Saliente</PostalAdress>
+      <CoordinateX>-3.66606666338315</CoordinateX>
+      <CoordinateY>40.4203926680662</CoordinateY>
+      <Line>
+        <IdLine>028</IdLine>
+        <Label>28</Label>
+        <HeaderA>PUERTA ALCALA</HeaderA>
+        <HeaderB>Bº CANILLEJAS</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:30</StartTime>
+        <StopTime>---</StopTime>
+        <MinimunFrequency>4</MinimunFrequency>
+        <MaximumFrequency>12</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>071</IdLine>
+        <Label>71</Label>
+        <HeaderA>MANUEL BECERRA</HeaderA>
+        <HeaderB>PUERTA ARGANDA</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:50</StartTime>
+        <StopTime>00:08</StopTime>
+        <MinimunFrequency>10</MinimunFrequency>
+        <MaximumFrequency>30</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+  </Site>
+  <Site>
+    <Type>C</Type>
+    <Id>11093629</Id>
+    <Description>DOCTOR BELLIDO</Description>
+    <StreetType>CALLE</StreetType>
+    <NumberType>NUM</NumberType>
+    <StreetNumber>44</StreetNumber>
+    <ZipCode>28018</ZipCode>
+    <CoordinateX>-3.66860733688076</CoordinateX>
+    <CoordinateY>40.3837023602871</CoordinateY>
+    <Stop>
+      <IdStop>1114</IdStop>
+      <PMV>
+      </PMV>
+      <Name>IMAGEN-PTO.BALBARAN</Name>
+      <PostalAdress>Imagen, 36.</PostalAdress>
+      <CoordinateX>-3.66835132629048</CoordinateX>
+      <CoordinateY>40.3830143710917</CoordinateY>
+      <Line>
+        <IdLine>103</IdLine>
+        <Label>103</Label>
+        <HeaderA>ESTACION EL POZO</HeaderA>
+        <HeaderB>ECOBULEVAR</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:50</StartTime>
+        <StopTime>23:55</StopTime>
+        <MinimunFrequency>10</MinimunFrequency>
+        <MaximumFrequency>22</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>111</IdLine>
+        <Label>111</Label>
+        <HeaderA>PUENTE VALLECAS</HeaderA>
+        <HeaderB>ENTREVIAS</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:45</StartTime>
+        <StopTime>23:25</StopTime>
+        <MinimunFrequency>10</MinimunFrequency>
+        <MaximumFrequency>21</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>144</IdLine>
+        <Label>144</Label>
+        <HeaderA>PAVONES</HeaderA>
+        <HeaderB>ENTREVIAS</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:35</StartTime>
+        <StopTime>00:13</StopTime>
+        <MinimunFrequency>7</MinimunFrequency>
+        <MaximumFrequency>25</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>1113</IdStop>
+      <PMV>
+      </PMV>
+      <Name>IMAGEN-PTO.MORCUERA</Name>
+      <PostalAdress>Imagen, 20.</PostalAdress>
+      <CoordinateX>-3.66734924475169</CoordinateX>
+      <CoordinateY>40.3841057453569</CoordinateY>
+      <Line>
+        <IdLine>103</IdLine>
+        <Label>103</Label>
+        <HeaderA>ESTACION EL POZO</HeaderA>
+        <HeaderB>ECOBULEVAR</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:50</StartTime>
+        <StopTime>23:55</StopTime>
+        <MinimunFrequency>10</MinimunFrequency>
+        <MaximumFrequency>22</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>111</IdLine>
+        <Label>111</Label>
+        <HeaderA>PUENTE VALLECAS</HeaderA>
+        <HeaderB>ENTREVIAS</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:45</StartTime>
+        <StopTime>23:25</StopTime>
+        <MinimunFrequency>10</MinimunFrequency>
+        <MaximumFrequency>21</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>144</IdLine>
+        <Label>144</Label>
+        <HeaderA>PAVONES</HeaderA>
+        <HeaderB>ENTREVIAS</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:35</StartTime>
+        <StopTime>00:13</StopTime>
+        <MinimunFrequency>7</MinimunFrequency>
+        <MaximumFrequency>25</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>2195</IdStop>
+      <PMV>
+      </PMV>
+      <Name>CONDE RGUEZ.SAN PEDRO-AV.ENTREVIAS</Name>
+      <PostalAdress>Conde Rguez. San Pedro S/N con Av. Entrevías</PostalAdress>
+      <CoordinateX>-3.67006830343876</CoordinateX>
+      <CoordinateY>40.3834819341918</CoordinateY>
+      <Line>
+        <IdLine>024</IdLine>
+        <Label>24</Label>
+        <HeaderA>ATOCHA RENFE</HeaderA>
+        <HeaderB>EL POZO</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:10</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>8</MinimunFrequency>
+        <MaximumFrequency>18</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>De 6:00 a 7:00 y 21:00 a 23:00 -&gt; cada 9 - 18 min.
+De 7:00 a 21:00 -&gt; cada 8 - 12 min.
+</FrequencyS1>
+        <FrequencyS2>De 6:00 a 7:00 y 21:00 a 23:00 -&gt; cada 9 - 18 min.
+De 7:00 a 21:00 -&gt; cada 8 - 12 min.
+</FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>1099</IdStop>
+      <PMV>
+      </PMV>
+      <Name>VIZCONDE ARLESSON-PTO.BALBARAN</Name>
+      <PostalAdress>Vizconde de Arlesson, 43.</PostalAdress>
+      <CoordinateX>-3.66764815065549</CoordinateX>
+      <CoordinateY>40.3824193207221</CoordinateY>
+      <Line>
+        <IdLine>103</IdLine>
+        <Label>103</Label>
+        <HeaderA>ESTACION EL POZO</HeaderA>
+        <HeaderB>ECOBULEVAR</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:00</StartTime>
+        <StopTime>23:58</StopTime>
+        <MinimunFrequency>10</MinimunFrequency>
+        <MaximumFrequency>22</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>111</IdLine>
+        <Label>111</Label>
+        <HeaderA>PUENTE VALLECAS</HeaderA>
+        <HeaderB>ENTREVIAS</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:06</StartTime>
+        <StopTime>23:45</StopTime>
+        <MinimunFrequency>10</MinimunFrequency>
+        <MaximumFrequency>21</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>144</IdLine>
+        <Label>144</Label>
+        <HeaderA>PAVONES</HeaderA>
+        <HeaderB>ENTREVIAS</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:00</StartTime>
+        <StopTime>23:45</StopTime>
+        <MinimunFrequency>7</MinimunFrequency>
+        <MaximumFrequency>25</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>1100</IdStop>
+      <PMV>
+      </PMV>
+      <Name>VIZCONDE ARLESSON-PTO.MORCUERA</Name>
+      <PostalAdress>Vizconde de Arlesson, 25.</PostalAdress>
+      <CoordinateX>-3.66658374668455</CoordinateX>
+      <CoordinateY>40.3835380749647</CoordinateY>
+      <Line>
+        <IdLine>103</IdLine>
+        <Label>103</Label>
+        <HeaderA>ESTACION EL POZO</HeaderA>
+        <HeaderB>ECOBULEVAR</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:00</StartTime>
+        <StopTime>23:58</StopTime>
+        <MinimunFrequency>10</MinimunFrequency>
+        <MaximumFrequency>22</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>111</IdLine>
+        <Label>111</Label>
+        <HeaderA>PUENTE VALLECAS</HeaderA>
+        <HeaderB>ENTREVIAS</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:06</StartTime>
+        <StopTime>23:45</StopTime>
+        <MinimunFrequency>10</MinimunFrequency>
+        <MaximumFrequency>21</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>144</IdLine>
+        <Label>144</Label>
+        <HeaderA>PAVONES</HeaderA>
+        <HeaderB>ENTREVIAS</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:00</StartTime>
+        <StopTime>23:45</StopTime>
+        <MinimunFrequency>7</MinimunFrequency>
+        <MaximumFrequency>25</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>2942</IdStop>
+      <PMV>
+      </PMV>
+      <Name>SIERRA CONTRAVIESA-C.RGUEZ.SAN PEDRO</Name>
+      <PostalAdress>Sierra de Contraviesa, 17</PostalAdress>
+      <CoordinateX>-3.67116270216823</CoordinateX>
+      <CoordinateY>40.3835386620194</CoordinateY>
+      <Line>
+        <IdLine>102</IdLine>
+        <Label>102</Label>
+        <HeaderA>ATOCHA RENFE</HeaderA>
+        <HeaderB>ESTACION EL POZO</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:05</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>5</MinimunFrequency>
+        <MaximumFrequency>15</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>511</IdLine>
+        <Label>N11</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>MADRID SUR</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:55</StartTime>
+        <StopTime>05:10</StopTime>
+        <MinimunFrequency>35</MinimunFrequency>
+        <MaximumFrequency>35</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>2197</IdStop>
+      <PMV>
+      </PMV>
+      <Name>AV.ENTREVIAS-CERCANIAS</Name>
+      <PostalAdress>Av. de Entrevías frente al Nº 52</PostalAdress>
+      <CoordinateX>-3.66835338166506</CoordinateX>
+      <CoordinateY>40.381617948114</CoordinateY>
+      <Line>
+        <IdLine>024</IdLine>
+        <Label>24</Label>
+        <HeaderA>ATOCHA RENFE</HeaderA>
+        <HeaderB>EL POZO</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:10</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>8</MinimunFrequency>
+        <MaximumFrequency>18</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>De 6:00 a 7:00 y 21:00 a 23:00 -&gt; cada 9 - 18 min.
+De 7:00 a 21:00 -&gt; cada 8 - 12 min.
+</FrequencyS1>
+        <FrequencyS2>De 6:00 a 7:00 y 21:00 a 23:00 -&gt; cada 9 - 18 min.
+De 7:00 a 21:00 -&gt; cada 8 - 12 min.
+</FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>2928</IdStop>
+      <PMV>
+      </PMV>
+      <Name>CARDEÑOSA-CONDE RGUEZ.SAN PEDRO</Name>
+      <PostalAdress>Cardeñosa, 12</PostalAdress>
+      <CoordinateX>-3.67110474548139</CoordinateX>
+      <CoordinateY>40.3846381080657</CoordinateY>
+      <Line>
+        <IdLine>102</IdLine>
+        <Label>102</Label>
+        <HeaderA>ATOCHA RENFE</HeaderA>
+        <HeaderB>ESTACION EL POZO</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:35</StartTime>
+        <StopTime>00:01</StopTime>
+        <MinimunFrequency>5</MinimunFrequency>
+        <MaximumFrequency>15</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>511</IdLine>
+        <Label>N11</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>MADRID SUR</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:15</StartTime>
+        <StopTime>05:40</StopTime>
+        <MinimunFrequency>35</MinimunFrequency>
+        <MaximumFrequency>35</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>2196</IdStop>
+      <PMV>
+      </PMV>
+      <Name>AV.ENTREVIAS-CERCANIAS</Name>
+      <PostalAdress>Av. de Entrevías, con C/ La Mancha</PostalAdress>
+      <CoordinateX>-3.66862299925607</CoordinateX>
+      <CoordinateY>40.3814812556003</CoordinateY>
+      <Line>
+        <IdLine>024</IdLine>
+        <Label>24</Label>
+        <HeaderA>ATOCHA RENFE</HeaderA>
+        <HeaderB>EL POZO</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:45</StartTime>
+        <StopTime>23:05</StopTime>
+        <MinimunFrequency>8</MinimunFrequency>
+        <MaximumFrequency>18</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>De 6:00 a 7:00 y 21:00 a 23:00 -&gt; cada 9 - 18 min.
+De 7:00 a 21:00 -&gt; cada 8 - 12 min.
+</FrequencyS1>
+        <FrequencyS2>De 6:00 a 7:00 y 21:00 a 23:00 -&gt; cada 9 - 18 min.
+De 7:00 a 21:00 -&gt; cada 8 - 12 min.
+</FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>1097</IdStop>
+      <PMV>
+      </PMV>
+      <Name>LA MANCHA-AV.ENTREVIAS</Name>
+      <PostalAdress>La Mancha,1</PostalAdress>
+      <CoordinateX>-3.66898733613896</CoordinateX>
+      <CoordinateY>40.3814296019712</CoordinateY>
+      <Line>
+        <IdLine>103</IdLine>
+        <Label>103</Label>
+        <HeaderA>ESTACION EL POZO</HeaderA>
+        <HeaderB>ECOBULEVAR</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:00</StartTime>
+        <StopTime>23:58</StopTime>
+        <MinimunFrequency>10</MinimunFrequency>
+        <MaximumFrequency>22</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>111</IdLine>
+        <Label>111</Label>
+        <HeaderA>PUENTE VALLECAS</HeaderA>
+        <HeaderB>ENTREVIAS</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:06</StartTime>
+        <StopTime>23:45</StopTime>
+        <MinimunFrequency>10</MinimunFrequency>
+        <MaximumFrequency>21</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>1098</IdStop>
+      <PMV>
+      </PMV>
+      <Name>LA MANCHA-AV.ENTREVIAS</Name>
+      <PostalAdress>La Mancha, 2.</PostalAdress>
+      <CoordinateX>-3.66934363003979</CoordinateX>
+      <CoordinateY>40.3813464618011</CoordinateY>
+      <Line>
+        <IdLine>103</IdLine>
+        <Label>103</Label>
+        <HeaderA>ESTACION EL POZO</HeaderA>
+        <HeaderB>ECOBULEVAR</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:50</StartTime>
+        <StopTime>23:55</StopTime>
+        <MinimunFrequency>10</MinimunFrequency>
+        <MaximumFrequency>22</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>111</IdLine>
+        <Label>111</Label>
+        <HeaderA>PUENTE VALLECAS</HeaderA>
+        <HeaderB>ENTREVIAS</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:45</StartTime>
+        <StopTime>23:25</StopTime>
+        <MinimunFrequency>10</MinimunFrequency>
+        <MaximumFrequency>21</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>2927</IdStop>
+      <PMV>
+      </PMV>
+      <Name>AV.ENTREVIAS-MEJORANA</Name>
+      <PostalAdress>Av. de Entrevías con Alfredo Castro Camba</PostalAdress>
+      <CoordinateX>-3.67077219476418</CoordinateX>
+      <CoordinateY>40.3855589623633</CoordinateY>
+      <Line>
+        <IdLine>102</IdLine>
+        <Label>102</Label>
+        <HeaderA>ATOCHA RENFE</HeaderA>
+        <HeaderB>ESTACION EL POZO</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:05</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>5</MinimunFrequency>
+        <MaximumFrequency>15</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>511</IdLine>
+        <Label>N11</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>MADRID SUR</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:55</StartTime>
+        <StopTime>05:10</StopTime>
+        <MinimunFrequency>35</MinimunFrequency>
+        <MaximumFrequency>35</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>4751</IdStop>
+      <PMV>61407</PMV>
+      <Name>ENTREVIAS</Name>
+      <PostalAdress>La Mancha,1</PostalAdress>
+      <CoordinateX>-3.66915053971451</CoordinateX>
+      <CoordinateY>40.3812169453456</CoordinateY>
+      <Line>
+        <IdLine>144</IdLine>
+        <Label>144</Label>
+        <HeaderA>PAVONES</HeaderA>
+        <HeaderB>ENTREVIAS</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:35</StartTime>
+        <StopTime>00:13</StopTime>
+        <MinimunFrequency>7</MinimunFrequency>
+        <MaximumFrequency>25</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>4743</IdStop>
+      <PMV>
+      </PMV>
+      <Name>HERNANDEZ MAS-RAFAEL MARCOTE</Name>
+      <PostalAdress>Hernández Mas, 18</PostalAdress>
+      <CoordinateX>-3.67011840459856</CoordinateX>
+      <CoordinateY>40.3814005415079</CoordinateY>
+      <Line>
+        <IdLine>144</IdLine>
+        <Label>144</Label>
+        <HeaderA>PAVONES</HeaderA>
+        <HeaderB>ENTREVIAS</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:35</StartTime>
+        <StopTime>00:13</StopTime>
+        <MinimunFrequency>7</MinimunFrequency>
+        <MaximumFrequency>25</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>1112</IdStop>
+      <PMV>
+      </PMV>
+      <Name>PTO.BONAIGUA-AV.SAN DIEGO</Name>
+      <PostalAdress>Puerto de la Bonaigua, 60.</PostalAdress>
+      <CoordinateX>-3.6661131502339</CoordinateX>
+      <CoordinateY>40.3854777388214</CoordinateY>
+      <Line>
+        <IdLine>103</IdLine>
+        <Label>103</Label>
+        <HeaderA>ESTACION EL POZO</HeaderA>
+        <HeaderB>ECOBULEVAR</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:50</StartTime>
+        <StopTime>23:55</StopTime>
+        <MinimunFrequency>10</MinimunFrequency>
+        <MaximumFrequency>22</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>111</IdLine>
+        <Label>111</Label>
+        <HeaderA>PUENTE VALLECAS</HeaderA>
+        <HeaderB>ENTREVIAS</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:45</StartTime>
+        <StopTime>23:25</StopTime>
+        <MinimunFrequency>10</MinimunFrequency>
+        <MaximumFrequency>21</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>144</IdLine>
+        <Label>144</Label>
+        <HeaderA>PAVONES</HeaderA>
+        <HeaderB>ENTREVIAS</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:35</StartTime>
+        <StopTime>00:13</StopTime>
+        <MinimunFrequency>7</MinimunFrequency>
+        <MaximumFrequency>25</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>2926</IdStop>
+      <PMV>
+      </PMV>
+      <Name>AV.ENTREVIAS-MEJORANA</Name>
+      <PostalAdress>Av. de Entrevías con Mejorana</PostalAdress>
+      <CoordinateX>-3.67100862117661</CoordinateX>
+      <CoordinateY>40.3856386749078</CoordinateY>
+      <Line>
+        <IdLine>102</IdLine>
+        <Label>102</Label>
+        <HeaderA>ATOCHA RENFE</HeaderA>
+        <HeaderB>ESTACION EL POZO</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:35</StartTime>
+        <StopTime>00:01</StopTime>
+        <MinimunFrequency>5</MinimunFrequency>
+        <MaximumFrequency>15</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>511</IdLine>
+        <Label>N11</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>MADRID SUR</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:15</StartTime>
+        <StopTime>05:40</StopTime>
+        <MinimunFrequency>35</MinimunFrequency>
+        <MaximumFrequency>35</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>2190</IdStop>
+      <PMV>
+      </PMV>
+      <Name>ALFREDO CASTRO CAMBA-PINTOR SOROLLA</Name>
+      <PostalAdress>Alfredo Castro Camba, 36</PostalAdress>
+      <CoordinateX>-3.67011788547586</CoordinateX>
+      <CoordinateY>40.3861123044622</CoordinateY>
+      <Line>
+        <IdLine>024</IdLine>
+        <Label>24</Label>
+        <HeaderA>ATOCHA RENFE</HeaderA>
+        <HeaderB>EL POZO</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:45</StartTime>
+        <StopTime>23:05</StopTime>
+        <MinimunFrequency>8</MinimunFrequency>
+        <MaximumFrequency>18</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>De 6:00 a 7:00 y 21:00 a 23:00 -&gt; cada 9 - 18 min.
+De 7:00 a 21:00 -&gt; cada 8 - 12 min.
+</FrequencyS1>
+        <FrequencyS2>De 6:00 a 7:00 y 21:00 a 23:00 -&gt; cada 9 - 18 min.
+De 7:00 a 21:00 -&gt; cada 8 - 12 min.
+</FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>1101</IdStop>
+      <PMV>61388</PMV>
+      <Name>CARLOS MARTIN ALVAREZ-AV.SAN DIEGO</Name>
+      <PostalAdress>Carlos Martín Alvarez, 79.</PostalAdress>
+      <CoordinateX>-3.6664508971523</CoordinateX>
+      <CoordinateY>40.3858271509996</CoordinateY>
+      <Line>
+        <IdLine>103</IdLine>
+        <Label>103</Label>
+        <HeaderA>ESTACION EL POZO</HeaderA>
+        <HeaderB>ECOBULEVAR</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:00</StartTime>
+        <StopTime>23:58</StopTime>
+        <MinimunFrequency>10</MinimunFrequency>
+        <MaximumFrequency>22</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>111</IdLine>
+        <Label>111</Label>
+        <HeaderA>PUENTE VALLECAS</HeaderA>
+        <HeaderB>ENTREVIAS</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:06</StartTime>
+        <StopTime>23:45</StopTime>
+        <MinimunFrequency>10</MinimunFrequency>
+        <MaximumFrequency>21</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>2193</IdStop>
+      <PMV>
+      </PMV>
+      <Name>CONDE RGUEZ.SAN PEDRO-MEJORANA</Name>
+      <PostalAdress>Conde Rodriguez San Pedro, 39</PostalAdress>
+      <CoordinateX>-3.67187131480325</CoordinateX>
+      <CoordinateY>40.3847147461879</CoordinateY>
+      <Line>
+        <IdLine>024</IdLine>
+        <Label>24</Label>
+        <HeaderA>ATOCHA RENFE</HeaderA>
+        <HeaderB>EL POZO</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:10</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>8</MinimunFrequency>
+        <MaximumFrequency>18</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>De 6:00 a 7:00 y 21:00 a 23:00 -&gt; cada 9 - 18 min.
+De 7:00 a 21:00 -&gt; cada 8 - 12 min.
+</FrequencyS1>
+        <FrequencyS2>De 6:00 a 7:00 y 21:00 a 23:00 -&gt; cada 9 - 18 min.
+De 7:00 a 21:00 -&gt; cada 8 - 12 min.
+</FrequencyS2>
+      </Line>
+    </Stop>
+  </Site>
+  <Site>
+    <Type>C</Type>
+    <Id>11025688</Id>
+    <Description>DOCTOR FLEMING</Description>
+    <StreetType>CALLE</StreetType>
+    <NumberType>NUM</NumberType>
+    <StreetNumber>44</StreetNumber>
+    <ZipCode>28036</ZipCode>
+    <CoordinateX>-3.68770579729123</CoordinateX>
+    <CoordinateY>40.4612027636778</CoordinateY>
+    <Stop>
+      <IdStop>33</IdStop>
+      <PMV>
+      </PMV>
+      <Name>Castellana-Rosario Pino</Name>
+      <PostalAdress>Pº de la Castellana, 194</PostalAdress>
+      <CoordinateX>-3.68953401416295</CoordinateX>
+      <CoordinateY>40.4618499055306</CoordinateY>
+      <Line>
+        <IdLine>005</IdLine>
+        <Label>5</Label>
+        <HeaderA>SOL/SEVILLA</HeaderA>
+        <HeaderB>CHAMARTIN</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:30</StartTime>
+        <StopTime>22:58</StopTime>
+        <MinimunFrequency>9</MinimunFrequency>
+        <MaximumFrequency>20</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>027</IdLine>
+        <Label>27</Label>
+        <HeaderA>EMBAJADORES</HeaderA>
+        <HeaderB>PLAZA CASTILLA</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:40</StartTime>
+        <StopTime>23:01</StopTime>
+        <MinimunFrequency>3</MinimunFrequency>
+        <MaximumFrequency>13</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>147</IdLine>
+        <Label>147</Label>
+        <HeaderA>CALLAO</HeaderA>
+        <HeaderB>BARRIO DEL PILAR</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:00</StartTime>
+        <StopTime>22:51</StopTime>
+        <MinimunFrequency>5</MinimunFrequency>
+        <MaximumFrequency>14</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>522</IdLine>
+        <Label>N22</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>BARRIO DEL PILAR</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:30</StartTime>
+        <StopTime>05:50</StopTime>
+        <MinimunFrequency>20</MinimunFrequency>
+        <MaximumFrequency>50</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>524</IdLine>
+        <Label>N24</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>LAS TABLAS</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:30</StartTime>
+        <StopTime>05:50</StopTime>
+        <MinimunFrequency>20</MinimunFrequency>
+        <MaximumFrequency>50</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>32</IdStop>
+      <PMV>60006</PMV>
+      <Name>Castellana-Rosario Pino</Name>
+      <PostalAdress>Pº de la Castellana, 167</PostalAdress>
+      <CoordinateX>-3.68999243036924</CoordinateX>
+      <CoordinateY>40.4618742013768</CoordinateY>
+      <Line>
+        <IdLine>005</IdLine>
+        <Label>5</Label>
+        <HeaderA>SOL/SEVILLA</HeaderA>
+        <HeaderB>CHAMARTIN</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>07:02</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>9</MinimunFrequency>
+        <MaximumFrequency>20</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>027</IdLine>
+        <Label>27</Label>
+        <HeaderA>EMBAJADORES</HeaderA>
+        <HeaderB>PLAZA CASTILLA</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:00</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>3</MinimunFrequency>
+        <MaximumFrequency>13</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>147</IdLine>
+        <Label>147</Label>
+        <HeaderA>CALLAO</HeaderA>
+        <HeaderB>BARRIO DEL PILAR</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:38</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>5</MinimunFrequency>
+        <MaximumFrequency>14</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>522</IdLine>
+        <Label>N22</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>BARRIO DEL PILAR</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:55</StartTime>
+        <StopTime>06:34</StopTime>
+        <MinimunFrequency>20</MinimunFrequency>
+        <MaximumFrequency>50</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>524</IdLine>
+        <Label>N24</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>LAS TABLAS</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:55</StartTime>
+        <StopTime>05:10</StopTime>
+        <MinimunFrequency>20</MinimunFrequency>
+        <MaximumFrequency>50</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>103</IdStop>
+      <PMV>
+      </PMV>
+      <Name>Padre Damián-Pedro Muguruza</Name>
+      <PostalAdress>Padre Damián, 43</PostalAdress>
+      <CoordinateX>-3.68539264083198</CoordinateX>
+      <CoordinateY>40.4619060272971</CoordinateY>
+      <Line>
+        <IdLine>150</IdLine>
+        <Label>150</Label>
+        <HeaderA>SOL/SEVILLA</HeaderA>
+        <HeaderB>VIRGEN CORTIJO</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:35</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>8</MinimunFrequency>
+        <MaximumFrequency>14</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>104</IdStop>
+      <PMV>
+      </PMV>
+      <Name>Padre Damián-Pedro Muguruza</Name>
+      <PostalAdress>Padre Damián, 52</PostalAdress>
+      <CoordinateX>-3.68515710262558</CoordinateX>
+      <CoordinateY>40.4615785937534</CoordinateY>
+      <Line>
+        <IdLine>150</IdLine>
+        <Label>150</Label>
+        <HeaderA>SOL/SEVILLA</HeaderA>
+        <HeaderB>VIRGEN CORTIJO</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:00</StartTime>
+        <StopTime>00:13</StopTime>
+        <MinimunFrequency>8</MinimunFrequency>
+        <MaximumFrequency>14</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>35</IdStop>
+      <PMV>
+      </PMV>
+      <Name>Cuzco</Name>
+      <PostalAdress>Pº de la Castellana, 170 (Pza. Cuzco)</PostalAdress>
+      <CoordinateX>-3.68972082738504</CoordinateX>
+      <CoordinateY>40.4598938448843</CoordinateY>
+      <Line>
+        <IdLine>005</IdLine>
+        <Label>5</Label>
+        <HeaderA>SOL/SEVILLA</HeaderA>
+        <HeaderB>CHAMARTIN</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:30</StartTime>
+        <StopTime>22:58</StopTime>
+        <MinimunFrequency>9</MinimunFrequency>
+        <MaximumFrequency>20</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>027</IdLine>
+        <Label>27</Label>
+        <HeaderA>EMBAJADORES</HeaderA>
+        <HeaderB>PLAZA CASTILLA</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:40</StartTime>
+        <StopTime>23:01</StopTime>
+        <MinimunFrequency>3</MinimunFrequency>
+        <MaximumFrequency>13</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>147</IdLine>
+        <Label>147</Label>
+        <HeaderA>CALLAO</HeaderA>
+        <HeaderB>BARRIO DEL PILAR</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:00</StartTime>
+        <StopTime>22:51</StopTime>
+        <MinimunFrequency>5</MinimunFrequency>
+        <MaximumFrequency>14</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>522</IdLine>
+        <Label>N22</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>BARRIO DEL PILAR</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:30</StartTime>
+        <StopTime>05:50</StopTime>
+        <MinimunFrequency>20</MinimunFrequency>
+        <MaximumFrequency>50</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>524</IdLine>
+        <Label>N24</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>LAS TABLAS</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:30</StartTime>
+        <StopTime>05:50</StopTime>
+        <MinimunFrequency>20</MinimunFrequency>
+        <MaximumFrequency>50</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>5882</IdStop>
+      <PMV>
+      </PMV>
+      <Name>CUZCO</Name>
+      <PostalAdress>Avenida de Alberto Alcocer con Pza. de Cuzco.</PostalAdress>
+      <CoordinateX>-3.68895777881722</CoordinateX>
+      <CoordinateY>40.4592362280662</CoordinateY>
+      <Line>
+        <IdLine>011</IdLine>
+        <Label>11</Label>
+        <HeaderA>MARQUES DE VIANA</HeaderA>
+        <HeaderB>BARRIO BLANCO</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:30</StartTime>
+        <StopTime>23:45</StopTime>
+        <MinimunFrequency>9</MinimunFrequency>
+        <MaximumFrequency>20</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>040</IdLine>
+        <Label>40</Label>
+        <HeaderA>TRIBUNAL</HeaderA>
+        <HeaderB>ALFONSO XIII</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:00</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>9</MinimunFrequency>
+        <MaximumFrequency>23</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>101</IdStop>
+      <PMV>
+      </PMV>
+      <Name>Alberto Alcocer-Padre Damián</Name>
+      <PostalAdress>Padre Damián, 29</PostalAdress>
+      <CoordinateX>-3.68563627382936</CoordinateX>
+      <CoordinateY>40.4595442325567</CoordinateY>
+      <Line>
+        <IdLine>150</IdLine>
+        <Label>150</Label>
+        <HeaderA>SOL/SEVILLA</HeaderA>
+        <HeaderB>VIRGEN CORTIJO</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:35</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>8</MinimunFrequency>
+        <MaximumFrequency>14</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>4615</IdStop>
+      <PMV>
+      </PMV>
+      <Name>CASTELLANA-ROSARIO PINO</Name>
+      <PostalAdress>Pº Castellana, 175</PostalAdress>
+      <CoordinateX>-3.69021411972359</CoordinateX>
+      <CoordinateY>40.4626836876551</CoordinateY>
+      <Line>
+        <IdLine>149</IdLine>
+        <Label>149</Label>
+        <HeaderA>TRIBUNAL</HeaderA>
+        <HeaderB>PLAZA CASTILLA</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:52</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>9</MinimunFrequency>
+        <MaximumFrequency>16</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>102</IdStop>
+      <PMV>
+      </PMV>
+      <Name>Alberto Alcocer-Padre Damián</Name>
+      <PostalAdress>Padre Damián, 44</PostalAdress>
+      <CoordinateX>-3.68539217755317</CoordinateX>
+      <CoordinateY>40.4591718051213</CoordinateY>
+      <Line>
+        <IdLine>150</IdLine>
+        <Label>150</Label>
+        <HeaderA>SOL/SEVILLA</HeaderA>
+        <HeaderB>VIRGEN CORTIJO</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:00</StartTime>
+        <StopTime>00:13</StopTime>
+        <MinimunFrequency>8</MinimunFrequency>
+        <MaximumFrequency>14</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+  </Site>
+  <Site>
+    <Type>C</Type>
+    <Id>31049571</Id>
+    <Description>DOCTOR BALMIS</Description>
+    <StreetType>CALLE</StreetType>
+    <NumberType>NUM</NumberType>
+    <StreetNumber>44</StreetNumber>
+    <ZipCode>28023</ZipCode>
+    <CoordinateX>-3.79511566282908</CoordinateX>
+    <CoordinateY>40.4590324955636</CoordinateY>
+  </Site>
+  <Site>
+    <Type>C</Type>
+    <Id>20132194</Id>
+    <Description>DOCTOR GARCIA TAPIA</Description>
+    <StreetType>AVENIDA</StreetType>
+    <NumberType>NUM</NumberType>
+    <StreetNumber>45</StreetNumber>
+    <ZipCode>28030</ZipCode>
+    <CoordinateX>-3.6491040536865</CoordinateX>
+    <CoordinateY>40.412575963034</CoordinateY>
+  </Site>
+  <Site>
+    <Type>C</Type>
+    <Id>11028164</Id>
+    <Description>DOCTOR FEDERICO RUBIO Y GALI</Description>
+    <StreetType>AVENIDA</StreetType>
+    <NumberType>NUM</NumberType>
+    <StreetNumber>44</StreetNumber>
+    <ZipCode>28039</ZipCode>
+    <CoordinateX>-3.7092600536945</CoordinateX>
+    <CoordinateY>40.4519341081031</CoordinateY>
+    <Stop>
+      <IdStop>1671</IdStop>
+      <PMV>61049</PMV>
+      <Name>RUBIO Y GALI-JERONIMA LLORENTE</Name>
+      <PostalAdress>Doctor Federico Rubio y Gali, 45</PostalAdress>
+      <CoordinateX>-3.70990459879695</CoordinateX>
+      <CoordinateY>40.4523079044439</CoordinateY>
+      <Line>
+        <IdLine>044</IdLine>
+        <Label>44</Label>
+        <HeaderA>CALLAO</HeaderA>
+        <HeaderB>MARQUES DE VIANA</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:17</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>9</MinimunFrequency>
+        <MaximumFrequency>24</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>127</IdLine>
+        <Label>127</Label>
+        <HeaderA>CUATRO CAMINOS</HeaderA>
+        <HeaderB>C. PERIODISTAS</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:00</StartTime>
+        <StopTime>23:45</StopTime>
+        <MinimunFrequency>9</MinimunFrequency>
+        <MaximumFrequency>24</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>521</IdLine>
+        <Label>N21</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>ARROYO FRESNO</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:55</StartTime>
+        <StopTime>05:10</StopTime>
+        <MinimunFrequency>20</MinimunFrequency>
+        <MaximumFrequency>50</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>1670</IdStop>
+      <PMV>
+      </PMV>
+      <Name>RUBIO Y GALI-JERONIMA LLORENTE</Name>
+      <PostalAdress>Av. Doctor Federico Rubio y Galí, 56</PostalAdress>
+      <CoordinateX>-3.70977629821871</CoordinateX>
+      <CoordinateY>40.4524438258245</CoordinateY>
+      <Line>
+        <IdLine>044</IdLine>
+        <Label>44</Label>
+        <HeaderA>CALLAO</HeaderA>
+        <HeaderB>MARQUES DE VIANA</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:52</StartTime>
+        <StopTime>23:04</StopTime>
+        <MinimunFrequency>9</MinimunFrequency>
+        <MaximumFrequency>24</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>127</IdLine>
+        <Label>127</Label>
+        <HeaderA>CUATRO CAMINOS</HeaderA>
+        <HeaderB>C. PERIODISTAS</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:35</StartTime>
+        <StopTime>23:20</StopTime>
+        <MinimunFrequency>9</MinimunFrequency>
+        <MaximumFrequency>24</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>521</IdLine>
+        <Label>N21</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>ARROYO FRESNO</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:30</StartTime>
+        <StopTime>05:50</StopTime>
+        <MinimunFrequency>20</MinimunFrequency>
+        <MaximumFrequency>50</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>1668</IdStop>
+      <PMV>
+      </PMV>
+      <Name>RUBIO Y GALI-ARANJUEZ</Name>
+      <PostalAdress>Av. Doctor Federico Rubio y Galí, 30</PostalAdress>
+      <CoordinateX>-3.70940322355</CoordinateX>
+      <CoordinateY>40.4506082794802</CoordinateY>
+      <Line>
+        <IdLine>044</IdLine>
+        <Label>44</Label>
+        <HeaderA>CALLAO</HeaderA>
+        <HeaderB>MARQUES DE VIANA</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:52</StartTime>
+        <StopTime>23:04</StopTime>
+        <MinimunFrequency>9</MinimunFrequency>
+        <MaximumFrequency>24</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>127</IdLine>
+        <Label>127</Label>
+        <HeaderA>CUATRO CAMINOS</HeaderA>
+        <HeaderB>C. PERIODISTAS</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:35</StartTime>
+        <StopTime>23:20</StopTime>
+        <MinimunFrequency>9</MinimunFrequency>
+        <MaximumFrequency>24</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>1669</IdStop>
+      <PMV>
+      </PMV>
+      <Name>RUBIO Y GALI-ARANJUEZ</Name>
+      <PostalAdress>Av. Doctor Federico Rubio y Galí, 27</PostalAdress>
+      <CoordinateX>-3.7095915239398</CoordinateX>
+      <CoordinateY>40.4505710896087</CoordinateY>
+      <Line>
+        <IdLine>044</IdLine>
+        <Label>44</Label>
+        <HeaderA>CALLAO</HeaderA>
+        <HeaderB>MARQUES DE VIANA</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:17</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>9</MinimunFrequency>
+        <MaximumFrequency>24</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>127</IdLine>
+        <Label>127</Label>
+        <HeaderA>CUATRO CAMINOS</HeaderA>
+        <HeaderB>C. PERIODISTAS</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:00</StartTime>
+        <StopTime>23:45</StopTime>
+        <MinimunFrequency>9</MinimunFrequency>
+        <MaximumFrequency>24</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+  </Site>
+  <Site>
+    <Type>C</Type>
+    <Id>11108560</Id>
+    <Description>DOCTOR VALLEJO</Description>
+    <StreetType>CALLE</StreetType>
+    <NumberType>NUM</NumberType>
+    <StreetNumber>44</StreetNumber>
+    <ZipCode>28027</ZipCode>
+    <CoordinateX>-3.64526569176439</CoordinateX>
+    <CoordinateY>40.4388082318623</CoordinateY>
+    <Stop>
+      <IdStop>768</IdStop>
+      <PMV>
+      </PMV>
+      <Name>HERMANOS DE PABLO</Name>
+      <PostalAdress>José del Hierro, 20</PostalAdress>
+      <CoordinateX>-3.64681327987753</CoordinateX>
+      <CoordinateY>40.4379207685025</CoordinateY>
+      <Line>
+        <IdLine>048</IdLine>
+        <Label>48</Label>
+        <HeaderA>MANUEL BECERRA</HeaderA>
+        <HeaderB>Bº CANILLEJAS</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:40</StartTime>
+        <StopTime>22:55</StopTime>
+        <MinimunFrequency>9</MinimunFrequency>
+        <MaximumFrequency>21</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>146</IdLine>
+        <Label>146</Label>
+        <HeaderA>CALLAO</HeaderA>
+        <HeaderB>LOS MOLINOS</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:00</StartTime>
+        <StopTime>22:29</StopTime>
+        <MinimunFrequency>8</MinimunFrequency>
+        <MaximumFrequency>22</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>769</IdStop>
+      <PMV>
+      </PMV>
+      <Name>JOSE DEL HIERRO-MANDARINA</Name>
+      <PostalAdress>José del Hierro, 50</PostalAdress>
+      <CoordinateX>-3.64417624776672</CoordinateX>
+      <CoordinateY>40.4401742087914</CoordinateY>
+      <Line>
+        <IdLine>048</IdLine>
+        <Label>48</Label>
+        <HeaderA>MANUEL BECERRA</HeaderA>
+        <HeaderB>Bº CANILLEJAS</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:40</StartTime>
+        <StopTime>22:55</StopTime>
+        <MinimunFrequency>9</MinimunFrequency>
+        <MaximumFrequency>21</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>146</IdLine>
+        <Label>146</Label>
+        <HeaderA>CALLAO</HeaderA>
+        <HeaderB>LOS MOLINOS</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:00</StartTime>
+        <StopTime>22:29</StopTime>
+        <MinimunFrequency>8</MinimunFrequency>
+        <MaximumFrequency>22</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>770</IdStop>
+      <PMV>61527</PMV>
+      <Name>JOSE DEL HIERRO-MANDARINA</Name>
+      <PostalAdress>José de Hierro, 39</PostalAdress>
+      <CoordinateX>-3.64429566482571</CoordinateX>
+      <CoordinateY>40.4402546256877</CoordinateY>
+      <Line>
+        <IdLine>048</IdLine>
+        <Label>48</Label>
+        <HeaderA>MANUEL BECERRA</HeaderA>
+        <HeaderB>Bº CANILLEJAS</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:10</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>9</MinimunFrequency>
+        <MaximumFrequency>21</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>146</IdLine>
+        <Label>146</Label>
+        <HeaderA>CALLAO</HeaderA>
+        <HeaderB>LOS MOLINOS</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:30</StartTime>
+        <StopTime>22:06</StopTime>
+        <MinimunFrequency>8</MinimunFrequency>
+        <MaximumFrequency>22</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>577</IdStop>
+      <PMV>
+      </PMV>
+      <Name>HERMANOS DE PABLO</Name>
+      <PostalAdress>Virgen del Portillo, 39</PostalAdress>
+      <CoordinateX>-3.64807525747606</CoordinateX>
+      <CoordinateY>40.4390713728451</CoordinateY>
+      <Line>
+        <IdLine>048</IdLine>
+        <Label>48</Label>
+        <HeaderA>MANUEL BECERRA</HeaderA>
+        <HeaderB>Bº CANILLEJAS</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:10</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>9</MinimunFrequency>
+        <MaximumFrequency>21</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>146</IdLine>
+        <Label>146</Label>
+        <HeaderA>CALLAO</HeaderA>
+        <HeaderB>LOS MOLINOS</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:30</StartTime>
+        <StopTime>22:06</StopTime>
+        <MinimunFrequency>8</MinimunFrequency>
+        <MaximumFrequency>22</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+  </Site>
+  <Site>
+    <Type>C</Type>
+    <Id>11093828</Id>
+    <Description>DOCTOR SANCHEZ</Description>
+    <StreetType>CALLE</StreetType>
+    <NumberType>NUM</NumberType>
+    <StreetNumber>44</StreetNumber>
+    <ZipCode>28018</ZipCode>
+    <CoordinateX>-3.66666722450469</CoordinateX>
+    <CoordinateY>40.3817457738698</CoordinateY>
+    <Stop>
+      <IdStop>1099</IdStop>
+      <PMV>
+      </PMV>
+      <Name>VIZCONDE ARLESSON-PTO.BALBARAN</Name>
+      <PostalAdress>Vizconde de Arlesson, 43.</PostalAdress>
+      <CoordinateX>-3.66764815065549</CoordinateX>
+      <CoordinateY>40.3824193207221</CoordinateY>
+      <Line>
+        <IdLine>103</IdLine>
+        <Label>103</Label>
+        <HeaderA>ESTACION EL POZO</HeaderA>
+        <HeaderB>ECOBULEVAR</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:00</StartTime>
+        <StopTime>23:58</StopTime>
+        <MinimunFrequency>10</MinimunFrequency>
+        <MaximumFrequency>22</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>111</IdLine>
+        <Label>111</Label>
+        <HeaderA>PUENTE VALLECAS</HeaderA>
+        <HeaderB>ENTREVIAS</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:06</StartTime>
+        <StopTime>23:45</StopTime>
+        <MinimunFrequency>10</MinimunFrequency>
+        <MaximumFrequency>21</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>144</IdLine>
+        <Label>144</Label>
+        <HeaderA>PAVONES</HeaderA>
+        <HeaderB>ENTREVIAS</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:00</StartTime>
+        <StopTime>23:45</StopTime>
+        <MinimunFrequency>7</MinimunFrequency>
+        <MaximumFrequency>25</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>5332</IdStop>
+      <PMV>
+      </PMV>
+      <Name>AV.ENTREVIAS-MEMBEZAR</Name>
+      <PostalAdress>Av. Entrevías frente al Nº 68</PostalAdress>
+      <CoordinateX>-3.66721189787305</CoordinateX>
+      <CoordinateY>40.3805524448977</CoordinateY>
+      <Line>
+        <IdLine>024</IdLine>
+        <Label>24</Label>
+        <HeaderA>ATOCHA RENFE</HeaderA>
+        <HeaderB>EL POZO</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:10</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>8</MinimunFrequency>
+        <MaximumFrequency>18</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>De 6:00 a 7:00 y 21:00 a 23:00 -&gt; cada 9 - 18 min.
+De 7:00 a 21:00 -&gt; cada 8 - 12 min.
+</FrequencyS1>
+        <FrequencyS2>De 6:00 a 7:00 y 21:00 a 23:00 -&gt; cada 9 - 18 min.
+De 7:00 a 21:00 -&gt; cada 8 - 12 min.
+</FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>2197</IdStop>
+      <PMV>
+      </PMV>
+      <Name>AV.ENTREVIAS-CERCANIAS</Name>
+      <PostalAdress>Av. de Entrevías frente al Nº 52</PostalAdress>
+      <CoordinateX>-3.66835338166506</CoordinateX>
+      <CoordinateY>40.381617948114</CoordinateY>
+      <Line>
+        <IdLine>024</IdLine>
+        <Label>24</Label>
+        <HeaderA>ATOCHA RENFE</HeaderA>
+        <HeaderB>EL POZO</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:10</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>8</MinimunFrequency>
+        <MaximumFrequency>18</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>De 6:00 a 7:00 y 21:00 a 23:00 -&gt; cada 9 - 18 min.
+De 7:00 a 21:00 -&gt; cada 8 - 12 min.
+</FrequencyS1>
+        <FrequencyS2>De 6:00 a 7:00 y 21:00 a 23:00 -&gt; cada 9 - 18 min.
+De 7:00 a 21:00 -&gt; cada 8 - 12 min.
+</FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>2196</IdStop>
+      <PMV>
+      </PMV>
+      <Name>AV.ENTREVIAS-CERCANIAS</Name>
+      <PostalAdress>Av. de Entrevías, con C/ La Mancha</PostalAdress>
+      <CoordinateX>-3.66862299925607</CoordinateX>
+      <CoordinateY>40.3814812556003</CoordinateY>
+      <Line>
+        <IdLine>024</IdLine>
+        <Label>24</Label>
+        <HeaderA>ATOCHA RENFE</HeaderA>
+        <HeaderB>EL POZO</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:45</StartTime>
+        <StopTime>23:05</StopTime>
+        <MinimunFrequency>8</MinimunFrequency>
+        <MaximumFrequency>18</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>De 6:00 a 7:00 y 21:00 a 23:00 -&gt; cada 9 - 18 min.
+De 7:00 a 21:00 -&gt; cada 8 - 12 min.
+</FrequencyS1>
+        <FrequencyS2>De 6:00 a 7:00 y 21:00 a 23:00 -&gt; cada 9 - 18 min.
+De 7:00 a 21:00 -&gt; cada 8 - 12 min.
+</FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>1100</IdStop>
+      <PMV>
+      </PMV>
+      <Name>VIZCONDE ARLESSON-PTO.MORCUERA</Name>
+      <PostalAdress>Vizconde de Arlesson, 25.</PostalAdress>
+      <CoordinateX>-3.66658374668455</CoordinateX>
+      <CoordinateY>40.3835380749647</CoordinateY>
+      <Line>
+        <IdLine>103</IdLine>
+        <Label>103</Label>
+        <HeaderA>ESTACION EL POZO</HeaderA>
+        <HeaderB>ECOBULEVAR</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:00</StartTime>
+        <StopTime>23:58</StopTime>
+        <MinimunFrequency>10</MinimunFrequency>
+        <MaximumFrequency>22</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>111</IdLine>
+        <Label>111</Label>
+        <HeaderA>PUENTE VALLECAS</HeaderA>
+        <HeaderB>ENTREVIAS</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:06</StartTime>
+        <StopTime>23:45</StopTime>
+        <MinimunFrequency>10</MinimunFrequency>
+        <MaximumFrequency>21</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>144</IdLine>
+        <Label>144</Label>
+        <HeaderA>PAVONES</HeaderA>
+        <HeaderB>ENTREVIAS</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:00</StartTime>
+        <StopTime>23:45</StopTime>
+        <MinimunFrequency>7</MinimunFrequency>
+        <MaximumFrequency>25</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>1097</IdStop>
+      <PMV>
+      </PMV>
+      <Name>LA MANCHA-AV.ENTREVIAS</Name>
+      <PostalAdress>La Mancha,1</PostalAdress>
+      <CoordinateX>-3.66898733613896</CoordinateX>
+      <CoordinateY>40.3814296019712</CoordinateY>
+      <Line>
+        <IdLine>103</IdLine>
+        <Label>103</Label>
+        <HeaderA>ESTACION EL POZO</HeaderA>
+        <HeaderB>ECOBULEVAR</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:00</StartTime>
+        <StopTime>23:58</StopTime>
+        <MinimunFrequency>10</MinimunFrequency>
+        <MaximumFrequency>22</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>111</IdLine>
+        <Label>111</Label>
+        <HeaderA>PUENTE VALLECAS</HeaderA>
+        <HeaderB>ENTREVIAS</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:06</StartTime>
+        <StopTime>23:45</StopTime>
+        <MinimunFrequency>10</MinimunFrequency>
+        <MaximumFrequency>21</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>1114</IdStop>
+      <PMV>
+      </PMV>
+      <Name>IMAGEN-PTO.BALBARAN</Name>
+      <PostalAdress>Imagen, 36.</PostalAdress>
+      <CoordinateX>-3.66835132629048</CoordinateX>
+      <CoordinateY>40.3830143710917</CoordinateY>
+      <Line>
+        <IdLine>103</IdLine>
+        <Label>103</Label>
+        <HeaderA>ESTACION EL POZO</HeaderA>
+        <HeaderB>ECOBULEVAR</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:50</StartTime>
+        <StopTime>23:55</StopTime>
+        <MinimunFrequency>10</MinimunFrequency>
+        <MaximumFrequency>22</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>111</IdLine>
+        <Label>111</Label>
+        <HeaderA>PUENTE VALLECAS</HeaderA>
+        <HeaderB>ENTREVIAS</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:45</StartTime>
+        <StopTime>23:25</StopTime>
+        <MinimunFrequency>10</MinimunFrequency>
+        <MaximumFrequency>21</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>144</IdLine>
+        <Label>144</Label>
+        <HeaderA>PAVONES</HeaderA>
+        <HeaderB>ENTREVIAS</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:35</StartTime>
+        <StopTime>00:13</StopTime>
+        <MinimunFrequency>7</MinimunFrequency>
+        <MaximumFrequency>25</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>4751</IdStop>
+      <PMV>61407</PMV>
+      <Name>ENTREVIAS</Name>
+      <PostalAdress>La Mancha,1</PostalAdress>
+      <CoordinateX>-3.66915053971451</CoordinateX>
+      <CoordinateY>40.3812169453456</CoordinateY>
+      <Line>
+        <IdLine>144</IdLine>
+        <Label>144</Label>
+        <HeaderA>PAVONES</HeaderA>
+        <HeaderB>ENTREVIAS</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:35</StartTime>
+        <StopTime>00:13</StopTime>
+        <MinimunFrequency>7</MinimunFrequency>
+        <MaximumFrequency>25</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>1098</IdStop>
+      <PMV>
+      </PMV>
+      <Name>LA MANCHA-AV.ENTREVIAS</Name>
+      <PostalAdress>La Mancha, 2.</PostalAdress>
+      <CoordinateX>-3.66934363003979</CoordinateX>
+      <CoordinateY>40.3813464618011</CoordinateY>
+      <Line>
+        <IdLine>103</IdLine>
+        <Label>103</Label>
+        <HeaderA>ESTACION EL POZO</HeaderA>
+        <HeaderB>ECOBULEVAR</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:50</StartTime>
+        <StopTime>23:55</StopTime>
+        <MinimunFrequency>10</MinimunFrequency>
+        <MaximumFrequency>22</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>111</IdLine>
+        <Label>111</Label>
+        <HeaderA>PUENTE VALLECAS</HeaderA>
+        <HeaderB>ENTREVIAS</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:45</StartTime>
+        <StopTime>23:25</StopTime>
+        <MinimunFrequency>10</MinimunFrequency>
+        <MaximumFrequency>21</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>3347</IdStop>
+      <PMV>
+      </PMV>
+      <Name>AV.SAN DIEGO-SAN MOISES</Name>
+      <PostalAdress>Av. de San Diego frente al Nº 105</PostalAdress>
+      <CoordinateX>-3.66451565163455</CoordinateX>
+      <CoordinateY>40.3831175203123</CoordinateY>
+      <Line>
+        <IdLine>144</IdLine>
+        <Label>144</Label>
+        <HeaderA>PAVONES</HeaderA>
+        <HeaderB>ENTREVIAS</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:00</StartTime>
+        <StopTime>23:45</StopTime>
+        <MinimunFrequency>7</MinimunFrequency>
+        <MaximumFrequency>25</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>2572</IdStop>
+      <PMV>62001</PMV>
+      <Name>CANDILEJAS-AV.PABLO NERUDA</Name>
+      <PostalAdress>Candilejas con Av. Pablo Neruda</PostalAdress>
+      <CoordinateX>-3.66361007831696</CoordinateX>
+      <CoordinateY>40.3820776554793</CoordinateY>
+      <Line>
+        <IdLine>057</IdLine>
+        <Label>57</Label>
+        <HeaderA>ATOCHA RENFE</HeaderA>
+        <HeaderB>ALTO DEL ARENAL</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:55</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>9</MinimunFrequency>
+        <MaximumFrequency>24</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>144</IdLine>
+        <Label>144</Label>
+        <HeaderA>PAVONES</HeaderA>
+        <HeaderB>ENTREVIAS</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:35</StartTime>
+        <StopTime>00:13</StopTime>
+        <MinimunFrequency>7</MinimunFrequency>
+        <MaximumFrequency>25</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>1113</IdStop>
+      <PMV>
+      </PMV>
+      <Name>IMAGEN-PTO.MORCUERA</Name>
+      <PostalAdress>Imagen, 20.</PostalAdress>
+      <CoordinateX>-3.66734924475169</CoordinateX>
+      <CoordinateY>40.3841057453569</CoordinateY>
+      <Line>
+        <IdLine>103</IdLine>
+        <Label>103</Label>
+        <HeaderA>ESTACION EL POZO</HeaderA>
+        <HeaderB>ECOBULEVAR</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:50</StartTime>
+        <StopTime>23:55</StopTime>
+        <MinimunFrequency>10</MinimunFrequency>
+        <MaximumFrequency>22</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>111</IdLine>
+        <Label>111</Label>
+        <HeaderA>PUENTE VALLECAS</HeaderA>
+        <HeaderB>ENTREVIAS</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:45</StartTime>
+        <StopTime>23:25</StopTime>
+        <MinimunFrequency>10</MinimunFrequency>
+        <MaximumFrequency>21</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>144</IdLine>
+        <Label>144</Label>
+        <HeaderA>PAVONES</HeaderA>
+        <HeaderB>ENTREVIAS</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:35</StartTime>
+        <StopTime>00:13</StopTime>
+        <MinimunFrequency>7</MinimunFrequency>
+        <MaximumFrequency>25</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>2199</IdStop>
+      <PMV>
+      </PMV>
+      <Name>AV.ENTREVIAS-SERENA</Name>
+      <PostalAdress>Av. de Entrevías frente al Nº 82</PostalAdress>
+      <CoordinateX>-3.66551581116739</CoordinateX>
+      <CoordinateY>40.3793910175181</CoordinateY>
+      <Line>
+        <IdLine>024</IdLine>
+        <Label>24</Label>
+        <HeaderA>ATOCHA RENFE</HeaderA>
+        <HeaderB>EL POZO</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:10</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>8</MinimunFrequency>
+        <MaximumFrequency>18</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>De 6:00 a 7:00 y 21:00 a 23:00 -&gt; cada 9 - 18 min.
+De 7:00 a 21:00 -&gt; cada 8 - 12 min.
+</FrequencyS1>
+        <FrequencyS2>De 6:00 a 7:00 y 21:00 a 23:00 -&gt; cada 9 - 18 min.
+De 7:00 a 21:00 -&gt; cada 8 - 12 min.
+</FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>4597</IdStop>
+      <PMV>
+      </PMV>
+      <Name>MADRID SUR</Name>
+      <PostalAdress>Av. Pablo Neruda S/N con Pza. de la Asamblea de Madrid</PostalAdress>
+      <CoordinateX>-3.66325472083229</CoordinateX>
+      <CoordinateY>40.3818814903395</CoordinateY>
+      <Line>
+        <IdLine>057</IdLine>
+        <Label>57</Label>
+        <HeaderA>ATOCHA RENFE</HeaderA>
+        <HeaderB>ALTO DEL ARENAL</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:25</StartTime>
+        <StopTime>---</StopTime>
+        <MinimunFrequency>9</MinimunFrequency>
+        <MaximumFrequency>24</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>144</IdLine>
+        <Label>144</Label>
+        <HeaderA>PAVONES</HeaderA>
+        <HeaderB>ENTREVIAS</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:00</StartTime>
+        <StopTime>23:45</StopTime>
+        <MinimunFrequency>7</MinimunFrequency>
+        <MaximumFrequency>25</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>511</IdLine>
+        <Label>N11</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>MADRID SUR</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:15</StartTime>
+        <StopTime>05:40</StopTime>
+        <MinimunFrequency>35</MinimunFrequency>
+        <MaximumFrequency>35</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>4743</IdStop>
+      <PMV>
+      </PMV>
+      <Name>HERNANDEZ MAS-RAFAEL MARCOTE</Name>
+      <PostalAdress>Hernández Mas, 18</PostalAdress>
+      <CoordinateX>-3.67011840459856</CoordinateX>
+      <CoordinateY>40.3814005415079</CoordinateY>
+      <Line>
+        <IdLine>144</IdLine>
+        <Label>144</Label>
+        <HeaderA>PAVONES</HeaderA>
+        <HeaderB>ENTREVIAS</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:35</StartTime>
+        <StopTime>00:13</StopTime>
+        <MinimunFrequency>7</MinimunFrequency>
+        <MaximumFrequency>25</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+  </Site>
+  <Site>
+    <Type>P</Type>
+    <Id>800817656</Id>
+    <Description>CORREOS, CALLE DEL DOCTOR VELASCO</Description>
+    <POItype>2</POItype>
+    <POIdirection>CALLE DEL DOCTOR VELASCO</POIdirection>
+    <POIstreetNumber>4</POIstreetNumber>
+    <POIphone>
+    </POIphone>
+    <CoordinateX>-3.68993703818882</CoordinateX>
+    <CoordinateY>40.4082753897061</CoordinateY>
+    <Stop>
+      <IdStop>2044</IdStop>
+      <PMV>
+      </PMV>
+      <Name>MINISTERIO DE AGRICULTURA</Name>
+      <PostalAdress>Pº Infanta Isabel, 1 (Mº Agricultura, Alimientación y M</PostalAdress>
+      <CoordinateX>-3.69035135363149</CoordinateX>
+      <CoordinateY>40.4084531018682</CoordinateY>
+      <Line>
+        <IdLine>026</IdLine>
+        <Label>26</Label>
+        <HeaderA>TIRSO DE MOLINA</HeaderA>
+        <HeaderB>DIEGO DE LEON</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:30</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>8</MinimunFrequency>
+        <MaximumFrequency>21</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>032</IdLine>
+        <Label>32</Label>
+        <HeaderA>BENAVENTE</HeaderA>
+        <HeaderB>PAVONES</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:14</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>6</MinimunFrequency>
+        <MaximumFrequency>16</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>037</IdLine>
+        <Label>37</Label>
+        <HeaderA>CUATRO CAMINOS</HeaderA>
+        <HeaderB>PUENTE VALLECAS</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:58</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>11</MinimunFrequency>
+        <MaximumFrequency>24</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>2178</IdStop>
+      <PMV>
+      </PMV>
+      <Name>Pº INFANTA ISABEL-DR.VELASCO</Name>
+      <PostalAdress>Pº de la Infanta Isabel, 7 (Hotel NH Sur).</PostalAdress>
+      <CoordinateX>-3.68954491836484</CoordinateX>
+      <CoordinateY>40.4079624080279</CoordinateY>
+      <Line>
+        <IdLine>068</IdLine>
+        <Label>C1</Label>
+        <HeaderA>CIRCULAR 1</HeaderA>
+        <HeaderB>CIRCULAR 1</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:00</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>4</MinimunFrequency>
+        <MaximumFrequency>11</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>509</IdLine>
+        <Label>N9</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>ENSANCH.VALLECAS</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:55</StartTime>
+        <StopTime>05:10</StopTime>
+        <MinimunFrequency>20</MinimunFrequency>
+        <MaximumFrequency>50</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>510</IdLine>
+        <Label>N10</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>PALOMERAS</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:55</StartTime>
+        <StopTime>05:10</StopTime>
+        <MinimunFrequency>35</MinimunFrequency>
+        <MaximumFrequency>35</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>525</IdLine>
+        <Label>N25</Label>
+        <HeaderA>ALONSO MARTINEZ</HeaderA>
+        <HeaderB>VILLA VALLECAS</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:55</StartTime>
+        <StopTime>06:34</StopTime>
+        <MinimunFrequency>20</MinimunFrequency>
+        <MaximumFrequency>50</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>1166</IdStop>
+      <PMV>
+      </PMV>
+      <Name>INTERCAMBIADOR DE ATOCHA</Name>
+      <PostalAdress>Av. Ciudad de Barcelona con Pza. Emperador Carlos V</PostalAdress>
+      <CoordinateX>-3.6905911199375</CoordinateX>
+      <CoordinateY>40.4076949115394</CoordinateY>
+      <Line>
+        <IdLine>019</IdLine>
+        <Label>19</Label>
+        <HeaderA>PLAZA CATALUÑA</HeaderA>
+        <HeaderB>LEGAZPI</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:17</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>3</MinimunFrequency>
+        <MaximumFrequency>16</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>5700</IdStop>
+      <PMV>
+      </PMV>
+      <Name>INTERCAMBIADOR DE ATOCHA</Name>
+      <PostalAdress>Alfonso XII, 68 con Pº de la Infanta Isabel</PostalAdress>
+      <CoordinateX>-3.6888318403535</CoordinateX>
+      <CoordinateY>40.407777461258</CoordinateY>
+      <Line>
+        <IdLine>019</IdLine>
+        <Label>19</Label>
+        <HeaderA>PLAZA CATALUÑA</HeaderA>
+        <HeaderB>LEGAZPI</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:50</StartTime>
+        <StopTime>23:57</StopTime>
+        <MinimunFrequency>3</MinimunFrequency>
+        <MaximumFrequency>16</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>5853</IdStop>
+      <PMV>
+      </PMV>
+      <Name>AV.CDAD.BARCELONA-INT.ATOCHA</Name>
+      <PostalAdress>Av. Ciudad de Barcelona con Pza. Emperador Carlos V.</PostalAdress>
+      <CoordinateX>-3.68991915745609</CoordinateX>
+      <CoordinateY>40.4072799952912</CoordinateY>
+      <Line>
+        <IdLine>102</IdLine>
+        <Label>102</Label>
+        <HeaderA>ATOCHA RENFE</HeaderA>
+        <HeaderB>ESTACION EL POZO</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:35</StartTime>
+        <StopTime>00:01</StopTime>
+        <MinimunFrequency>5</MinimunFrequency>
+        <MaximumFrequency>15</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>2176</IdStop>
+      <PMV>
+      </PMV>
+      <Name>CUESTA DE MOYANO</Name>
+      <PostalAdress>Alfonso XII, 58</PostalAdress>
+      <CoordinateX>-3.68889770190451</CoordinateX>
+      <CoordinateY>40.4092185186989</CoordinateY>
+      <Line>
+        <IdLine>019</IdLine>
+        <Label>19</Label>
+        <HeaderA>PLAZA CATALUÑA</HeaderA>
+        <HeaderB>LEGAZPI</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:50</StartTime>
+        <StopTime>23:57</StopTime>
+        <MinimunFrequency>3</MinimunFrequency>
+        <MaximumFrequency>16</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>5453</IdStop>
+      <PMV>
+      </PMV>
+      <Name>MINISTERIO DE AGRICULTURA</Name>
+      <PostalAdress>Pº Infanta Isabel, 1 con Ministerio de Agricultura, Ali</PostalAdress>
+      <CoordinateX>-3.69125281818153</CoordinateX>
+      <CoordinateY>40.4090152952876</CoordinateY>
+      <Line>
+        <IdLine>010</IdLine>
+        <Label>10</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>PALOMERAS</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:10</StartTime>
+        <StopTime>23:35</StopTime>
+        <MinimunFrequency>5</MinimunFrequency>
+        <MaximumFrequency>14</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>014</IdLine>
+        <Label>14</Label>
+        <HeaderA>CONDE DE CASAL</HeaderA>
+        <HeaderB>PIO XII</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:20</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>5</MinimunFrequency>
+        <MaximumFrequency>13</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>5710</IdStop>
+      <PMV>61235</PMV>
+      <Name>ATOCHA RENFE</Name>
+      <PostalAdress>Av. Ciudad de Barcelona (Intercambiador de Atocha)</PostalAdress>
+      <CoordinateX>-3.68970427860432</CoordinateX>
+      <CoordinateY>40.4069028946751</CoordinateY>
+      <Line>
+        <IdLine>086</IdLine>
+        <Label>86</Label>
+        <HeaderA>ATOCHA RENFE</HeaderA>
+        <HeaderB>VILLAVERDE ALTO</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:40</StartTime>
+        <StopTime>23:00</StopTime>
+        <MinimunFrequency>10</MinimunFrequency>
+        <MaximumFrequency>21</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>2177</IdStop>
+      <PMV>
+      </PMV>
+      <Name>CUESTA DE MOYANO</Name>
+      <PostalAdress>Alfonso XII, frente al Nº 58</PostalAdress>
+      <CoordinateX>-3.68856844819089</CoordinateX>
+      <CoordinateY>40.4092925492225</CoordinateY>
+      <Line>
+        <IdLine>019</IdLine>
+        <Label>19</Label>
+        <HeaderA>PLAZA CATALUÑA</HeaderA>
+        <HeaderB>LEGAZPI</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:17</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>3</MinimunFrequency>
+        <MaximumFrequency>16</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>5709</IdStop>
+      <PMV>61235</PMV>
+      <Name>ATOCHA RENFE</Name>
+      <PostalAdress>Av. Ciudad de Barcelona (Intercambiador de Atocha)</PostalAdress>
+      <CoordinateX>-3.68983497489634</CoordinateX>
+      <CoordinateY>40.4067534667758</CoordinateY>
+      <Line>
+        <IdLine>203</IdLine>
+        <Label>203</Label>
+        <HeaderA>ATOCHA RENFE</HeaderA>
+        <HeaderB>AEROPUERTO</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:00</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>15</MinimunFrequency>
+        <MaximumFrequency>21</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>1401</IdStop>
+      <PMV>61336</PMV>
+      <Name>INTERCAMBIADOR DE ATOCHA</Name>
+      <PostalAdress>Av. Ciudad de Barcelona (Intercambiador de Atocha)</PostalAdress>
+      <CoordinateX>-3.68909414362833</CoordinateX>
+      <CoordinateY>40.406735354481</CoordinateY>
+      <Line>
+        <IdLine>010</IdLine>
+        <Label>10</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>PALOMERAS</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:30</StartTime>
+        <StopTime>00:11</StopTime>
+        <MinimunFrequency>5</MinimunFrequency>
+        <MaximumFrequency>14</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>014</IdLine>
+        <Label>14</Label>
+        <HeaderA>CONDE DE CASAL</HeaderA>
+        <HeaderB>PIO XII</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:45</StartTime>
+        <StopTime>23:00</StopTime>
+        <MinimunFrequency>5</MinimunFrequency>
+        <MaximumFrequency>13</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>026</IdLine>
+        <Label>26</Label>
+        <HeaderA>TIRSO DE MOLINA</HeaderA>
+        <HeaderB>DIEGO DE LEON</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:10</StartTime>
+        <StopTime>23:55</StopTime>
+        <MinimunFrequency>8</MinimunFrequency>
+        <MaximumFrequency>21</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>032</IdLine>
+        <Label>32</Label>
+        <HeaderA>BENAVENTE</HeaderA>
+        <HeaderB>PAVONES</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:40</StartTime>
+        <StopTime>23:00</StopTime>
+        <MinimunFrequency>6</MinimunFrequency>
+        <MaximumFrequency>16</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>037</IdLine>
+        <Label>37</Label>
+        <HeaderA>CUATRO CAMINOS</HeaderA>
+        <HeaderB>PUENTE VALLECAS</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:33</StartTime>
+        <StopTime>23:01</StopTime>
+        <MinimunFrequency>11</MinimunFrequency>
+        <MaximumFrequency>24</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>069</IdLine>
+        <Label>C2</Label>
+        <HeaderA>CIRCULAR 2</HeaderA>
+        <HeaderB>CIRCULAR 2</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:35</StartTime>
+        <StopTime>23:00</StopTime>
+        <MinimunFrequency>4</MinimunFrequency>
+        <MaximumFrequency>13</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>509</IdLine>
+        <Label>N9</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>ENSANCH.VALLECAS</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:30</StartTime>
+        <StopTime>05:50</StopTime>
+        <MinimunFrequency>20</MinimunFrequency>
+        <MaximumFrequency>50</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>510</IdLine>
+        <Label>N10</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>PALOMERAS</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:15</StartTime>
+        <StopTime>05:40</StopTime>
+        <MinimunFrequency>35</MinimunFrequency>
+        <MaximumFrequency>35</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>511</IdLine>
+        <Label>N11</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>MADRID SUR</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:15</StartTime>
+        <StopTime>05:40</StopTime>
+        <MinimunFrequency>35</MinimunFrequency>
+        <MaximumFrequency>35</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>513</IdLine>
+        <Label>N13</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>SAN CRISTOBAL</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:30</StartTime>
+        <StopTime>05:50</StopTime>
+        <MinimunFrequency>20</MinimunFrequency>
+        <MaximumFrequency>50</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>525</IdLine>
+        <Label>N25</Label>
+        <HeaderA>ALONSO MARTINEZ</HeaderA>
+        <HeaderB>VILLA VALLECAS</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:30</StartTime>
+        <StopTime>05:50</StopTime>
+        <MinimunFrequency>20</MinimunFrequency>
+        <MaximumFrequency>50</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>5708</IdStop>
+      <PMV>61235</PMV>
+      <Name>ATOCHA RENFE</Name>
+      <PostalAdress>Av. Ciudad de Barcelona (Intercambiador de Atocha)</PostalAdress>
+      <CoordinateX>-3.690082690996</CoordinateX>
+      <CoordinateY>40.4065582962113</CoordinateY>
+      <Line>
+        <IdLine>085</IdLine>
+        <Label>85</Label>
+        <HeaderA>ATOCHA RENFE</HeaderA>
+        <HeaderB>BUTARQUE</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:40</StartTime>
+        <StopTime>22:58</StopTime>
+        <MinimunFrequency>6</MinimunFrequency>
+        <MaximumFrequency>17</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>2045</IdStop>
+      <PMV>
+      </PMV>
+      <Name>INTERCAMBIADOR DE ATOCHA</Name>
+      <PostalAdress>Pº Infanta Isabel, 15</PostalAdress>
+      <CoordinateX>-3.68813453193132</CoordinateX>
+      <CoordinateY>40.4071870087017</CoordinateY>
+      <Line>
+        <IdLine>010</IdLine>
+        <Label>10</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>PALOMERAS</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:10</StartTime>
+        <StopTime>23:35</StopTime>
+        <MinimunFrequency>5</MinimunFrequency>
+        <MaximumFrequency>14</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>014</IdLine>
+        <Label>14</Label>
+        <HeaderA>CONDE DE CASAL</HeaderA>
+        <HeaderB>PIO XII</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:20</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>5</MinimunFrequency>
+        <MaximumFrequency>13</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>026</IdLine>
+        <Label>26</Label>
+        <HeaderA>TIRSO DE MOLINA</HeaderA>
+        <HeaderB>DIEGO DE LEON</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:30</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>8</MinimunFrequency>
+        <MaximumFrequency>21</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>032</IdLine>
+        <Label>32</Label>
+        <HeaderA>BENAVENTE</HeaderA>
+        <HeaderB>PAVONES</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:14</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>6</MinimunFrequency>
+        <MaximumFrequency>16</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>068</IdLine>
+        <Label>C1</Label>
+        <HeaderA>CIRCULAR 1</HeaderA>
+        <HeaderB>CIRCULAR 1</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:00</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>4</MinimunFrequency>
+        <MaximumFrequency>11</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>5707</IdStop>
+      <PMV>61235</PMV>
+      <Name>ATOCHA-RENFE</Name>
+      <PostalAdress>Av. Ciudad de Barcelona (Intercambiador de Atocha)</PostalAdress>
+      <CoordinateX>-3.69014267639992</CoordinateX>
+      <CoordinateY>40.4064453255152</CoordinateY>
+      <Line>
+        <IdLine>059</IdLine>
+        <Label>59</Label>
+        <HeaderA>ATOCHA RENFE</HeaderA>
+        <HeaderB>SAN CRISTOBAL</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:35</StartTime>
+        <StopTime>23:06</StopTime>
+        <MinimunFrequency>11</MinimunFrequency>
+        <MaximumFrequency>30</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>5717</IdStop>
+      <PMV>61235</PMV>
+      <Name>ATOCHA RENFE</Name>
+      <PostalAdress>Av. Ciudad de Barcelona (Intercambiador de Atocha)</PostalAdress>
+      <CoordinateX>-3.68939687866537</CoordinateX>
+      <CoordinateY>40.4063731903855</CoordinateY>
+      <Line>
+        <IdLine>141</IdLine>
+        <Label>141</Label>
+        <HeaderA>ATOCHA RENFE</HeaderA>
+        <HeaderB>BUENOS AIRES</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:43</StartTime>
+        <StopTime>23:07</StopTime>
+        <MinimunFrequency>11</MinimunFrequency>
+        <MaximumFrequency>22</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>De 6:00 a 8:00 -&gt; cada 11 - 22 min.
+De 8:00 a 21:00 -&gt; cada 11 - 14 min.
+De 21:00 a 23:00 -&gt; cada 13 - 19 min.
+</FrequencyS1>
+        <FrequencyS2>De 6:00 a 8:00 -&gt; cada 11 - 22 min.
+De 8:00 a 21:00 -&gt; cada 11 - 14 min.
+De 21:00 a 23:00 -&gt; cada 13 - 19 min.
+</FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>5706</IdStop>
+      <PMV>61235</PMV>
+      <Name>ATOCHA-RENFE</Name>
+      <PostalAdress>Av. Ciudad de Barcelona (Intercambiador de Atocha)</PostalAdress>
+      <CoordinateX>-3.68996784302042</CoordinateX>
+      <CoordinateY>40.4062751950866</CoordinateY>
+      <Line>
+        <IdLine>024</IdLine>
+        <Label>24</Label>
+        <HeaderA>ATOCHA RENFE</HeaderA>
+        <HeaderB>EL POZO</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:45</StartTime>
+        <StopTime>23:05</StopTime>
+        <MinimunFrequency>8</MinimunFrequency>
+        <MaximumFrequency>18</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>De 6:00 a 7:00 y 21:00 a 23:00 -&gt; cada 9 - 18 min.
+De 7:00 a 21:00 -&gt; cada 8 - 12 min.
+</FrequencyS1>
+        <FrequencyS2>De 6:00 a 7:00 y 21:00 a 23:00 -&gt; cada 9 - 18 min.
+De 7:00 a 21:00 -&gt; cada 8 - 12 min.
+</FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>5705</IdStop>
+      <PMV>61235</PMV>
+      <Name>ATOCHA-RENFE</Name>
+      <PostalAdress>Av. Ciudad de Barcelona (Intercambiador de Atocha)</PostalAdress>
+      <CoordinateX>-3.68979070484843</CoordinateX>
+      <CoordinateY>40.4062402140253</CoordinateY>
+      <Line>
+        <IdLine>054</IdLine>
+        <Label>54</Label>
+        <HeaderA>ATOCHA RENFE</HeaderA>
+        <HeaderB>CONGOSTO</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:25</StartTime>
+        <StopTime>23:00</StopTime>
+        <MinimunFrequency>9</MinimunFrequency>
+        <MaximumFrequency>17</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>057</IdLine>
+        <Label>57</Label>
+        <HeaderA>ATOCHA RENFE</HeaderA>
+        <HeaderB>ALTO DEL ARENAL</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:25</StartTime>
+        <StopTime>---</StopTime>
+        <MinimunFrequency>9</MinimunFrequency>
+        <MaximumFrequency>24</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>5222</IdStop>
+      <PMV>
+      </PMV>
+      <Name>MENDEZ ALVARO-MURCIA</Name>
+      <PostalAdress>Méndez Alvaro frente al Nº 16</PostalAdress>
+      <CoordinateX>-3.69163961718439</CoordinateX>
+      <CoordinateY>40.4062111688829</CoordinateY>
+      <Line>
+        <IdLine>511</IdLine>
+        <Label>N11</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>MADRID SUR</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:55</StartTime>
+        <StopTime>05:10</StopTime>
+        <MinimunFrequency>35</MinimunFrequency>
+        <MaximumFrequency>35</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>513</IdLine>
+        <Label>N13</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>SAN CRISTOBAL</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:55</StartTime>
+        <StopTime>06:34</StopTime>
+        <MinimunFrequency>20</MinimunFrequency>
+        <MaximumFrequency>50</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>82</IdStop>
+      <PMV>61259</PMV>
+      <Name>Prado-Atocha</Name>
+      <PostalAdress>Pº del Prado frente al 48 , con Cuesta Moyano</PostalAdress>
+      <CoordinateX>-3.69217764133906</CoordinateX>
+      <CoordinateY>40.4100593263879</CoordinateY>
+      <Line>
+        <IdLine>010</IdLine>
+        <Label>10</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>PALOMERAS</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:10</StartTime>
+        <StopTime>23:35</StopTime>
+        <MinimunFrequency>5</MinimunFrequency>
+        <MaximumFrequency>14</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>014</IdLine>
+        <Label>14</Label>
+        <HeaderA>CONDE DE CASAL</HeaderA>
+        <HeaderB>PIO XII</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:20</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>5</MinimunFrequency>
+        <MaximumFrequency>13</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>027</IdLine>
+        <Label>27</Label>
+        <HeaderA>EMBAJADORES</HeaderA>
+        <HeaderB>PLAZA CASTILLA</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:40</StartTime>
+        <StopTime>23:01</StopTime>
+        <MinimunFrequency>3</MinimunFrequency>
+        <MaximumFrequency>13</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>034</IdLine>
+        <Label>34</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>LAS AGUILAS</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:45</StartTime>
+        <StopTime>23:38</StopTime>
+        <MinimunFrequency>5</MinimunFrequency>
+        <MaximumFrequency>15</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>037</IdLine>
+        <Label>37</Label>
+        <HeaderA>CUATRO CAMINOS</HeaderA>
+        <HeaderB>PUENTE VALLECAS</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:58</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>11</MinimunFrequency>
+        <MaximumFrequency>24</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>045</IdLine>
+        <Label>45</Label>
+        <HeaderA>LEGAZPI</HeaderA>
+        <HeaderB>REINA VICTORIA</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:30</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>7</MinimunFrequency>
+        <MaximumFrequency>18</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>509</IdLine>
+        <Label>N9</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>ENSANCH.VALLECAS</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:55</StartTime>
+        <StopTime>05:10</StopTime>
+        <MinimunFrequency>20</MinimunFrequency>
+        <MaximumFrequency>50</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>510</IdLine>
+        <Label>N10</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>PALOMERAS</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:55</StartTime>
+        <StopTime>05:10</StopTime>
+        <MinimunFrequency>35</MinimunFrequency>
+        <MaximumFrequency>35</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>511</IdLine>
+        <Label>N11</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>MADRID SUR</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:55</StartTime>
+        <StopTime>05:10</StopTime>
+        <MinimunFrequency>35</MinimunFrequency>
+        <MaximumFrequency>35</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>512</IdLine>
+        <Label>N12</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>BUTARQUE</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:55</StartTime>
+        <StopTime>06:34</StopTime>
+        <MinimunFrequency>20</MinimunFrequency>
+        <MaximumFrequency>50</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>513</IdLine>
+        <Label>N13</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>SAN CRISTOBAL</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:55</StartTime>
+        <StopTime>06:34</StopTime>
+        <MinimunFrequency>20</MinimunFrequency>
+        <MaximumFrequency>50</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>514</IdLine>
+        <Label>N14</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>VILLAVERDE ALTO</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:55</StartTime>
+        <StopTime>05:10</StopTime>
+        <MinimunFrequency>20</MinimunFrequency>
+        <MaximumFrequency>50</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>515</IdLine>
+        <Label>N15</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>ORCASUR</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:55</StartTime>
+        <StopTime>06:34</StopTime>
+        <MinimunFrequency>20</MinimunFrequency>
+        <MaximumFrequency>50</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>517</IdLine>
+        <Label>N17</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>CARABANCHEL ALTO</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:55</StartTime>
+        <StopTime>05:10</StopTime>
+        <MinimunFrequency>20</MinimunFrequency>
+        <MaximumFrequency>50</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>525</IdLine>
+        <Label>N25</Label>
+        <HeaderA>ALONSO MARTINEZ</HeaderA>
+        <HeaderB>VILLA VALLECAS</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:55</StartTime>
+        <StopTime>06:34</StopTime>
+        <MinimunFrequency>20</MinimunFrequency>
+        <MaximumFrequency>50</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>5643</IdStop>
+      <PMV>
+      </PMV>
+      <Name>ATOCHA</Name>
+      <PostalAdress>Pza. Emperador Carlos V con C/ Sta. Isabel</PostalAdress>
+      <CoordinateX>-3.69316582241197</CoordinateX>
+      <CoordinateY>40.4080804328562</CoordinateY>
+      <Line>
+        <IdLine>401</IdLine>
+        <Label>E1</Label>
+        <HeaderA>ATOCHA</HeaderA>
+        <HeaderB>PLAZA ELIPTICA</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:45</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>10</MinimunFrequency>
+        <MaximumFrequency>18</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>81</IdStop>
+      <PMV>61258</PMV>
+      <Name>Prado-Atocha</Name>
+      <PostalAdress>Pº del Prado, 48 con C/ Atocha</PostalAdress>
+      <CoordinateX>-3.69262709547135</CoordinateX>
+      <CoordinateY>40.4099260079139</CoordinateY>
+      <Line>
+        <IdLine>010</IdLine>
+        <Label>10</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>PALOMERAS</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:30</StartTime>
+        <StopTime>00:11</StopTime>
+        <MinimunFrequency>5</MinimunFrequency>
+        <MaximumFrequency>14</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>014</IdLine>
+        <Label>14</Label>
+        <HeaderA>CONDE DE CASAL</HeaderA>
+        <HeaderB>PIO XII</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:45</StartTime>
+        <StopTime>23:00</StopTime>
+        <MinimunFrequency>5</MinimunFrequency>
+        <MaximumFrequency>13</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>027</IdLine>
+        <Label>27</Label>
+        <HeaderA>EMBAJADORES</HeaderA>
+        <HeaderB>PLAZA CASTILLA</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:00</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>3</MinimunFrequency>
+        <MaximumFrequency>13</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>034</IdLine>
+        <Label>34</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>LAS AGUILAS</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:10</StartTime>
+        <StopTime>00:15</StopTime>
+        <MinimunFrequency>5</MinimunFrequency>
+        <MaximumFrequency>15</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>037</IdLine>
+        <Label>37</Label>
+        <HeaderA>CUATRO CAMINOS</HeaderA>
+        <HeaderB>PUENTE VALLECAS</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:33</StartTime>
+        <StopTime>23:01</StopTime>
+        <MinimunFrequency>11</MinimunFrequency>
+        <MaximumFrequency>24</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>045</IdLine>
+        <Label>45</Label>
+        <HeaderA>LEGAZPI</HeaderA>
+        <HeaderB>REINA VICTORIA</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:00</StartTime>
+        <StopTime>23:02</StopTime>
+        <MinimunFrequency>7</MinimunFrequency>
+        <MaximumFrequency>18</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>509</IdLine>
+        <Label>N9</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>ENSANCH.VALLECAS</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:30</StartTime>
+        <StopTime>05:50</StopTime>
+        <MinimunFrequency>20</MinimunFrequency>
+        <MaximumFrequency>50</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>510</IdLine>
+        <Label>N10</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>PALOMERAS</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:15</StartTime>
+        <StopTime>05:40</StopTime>
+        <MinimunFrequency>35</MinimunFrequency>
+        <MaximumFrequency>35</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>511</IdLine>
+        <Label>N11</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>MADRID SUR</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:15</StartTime>
+        <StopTime>05:40</StopTime>
+        <MinimunFrequency>35</MinimunFrequency>
+        <MaximumFrequency>35</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>512</IdLine>
+        <Label>N12</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>BUTARQUE</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:30</StartTime>
+        <StopTime>05:50</StopTime>
+        <MinimunFrequency>20</MinimunFrequency>
+        <MaximumFrequency>50</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>513</IdLine>
+        <Label>N13</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>SAN CRISTOBAL</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:30</StartTime>
+        <StopTime>05:50</StopTime>
+        <MinimunFrequency>20</MinimunFrequency>
+        <MaximumFrequency>50</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>514</IdLine>
+        <Label>N14</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>VILLAVERDE ALTO</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:30</StartTime>
+        <StopTime>05:50</StopTime>
+        <MinimunFrequency>20</MinimunFrequency>
+        <MaximumFrequency>50</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>515</IdLine>
+        <Label>N15</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>ORCASUR</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:30</StartTime>
+        <StopTime>05:50</StopTime>
+        <MinimunFrequency>20</MinimunFrequency>
+        <MaximumFrequency>50</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>517</IdLine>
+        <Label>N17</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>CARABANCHEL ALTO</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:30</StartTime>
+        <StopTime>05:50</StopTime>
+        <MinimunFrequency>20</MinimunFrequency>
+        <MaximumFrequency>50</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>525</IdLine>
+        <Label>N25</Label>
+        <HeaderA>ALONSO MARTINEZ</HeaderA>
+        <HeaderB>VILLA VALLECAS</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:30</StartTime>
+        <StopTime>05:50</StopTime>
+        <MinimunFrequency>20</MinimunFrequency>
+        <MaximumFrequency>50</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>526</IdLine>
+        <Label>N26</Label>
+        <HeaderA>ALONSO MARTINEZ</HeaderA>
+        <HeaderB>ALUCHE</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:30</StartTime>
+        <StopTime>05:50</StopTime>
+        <MinimunFrequency>20</MinimunFrequency>
+        <MaximumFrequency>50</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+  </Site>
+  <Site>
+    <Type>P</Type>
+    <Id>800832365</Id>
+    <Description>DOCTOR ESPINOLA</Description>
+    <POItype>3</POItype>
+    <POIdirection>CALLE DEL CARDENAL MARCELO SPÍNOLA</POIdirection>
+    <POIstreetNumber>
+    </POIstreetNumber>
+    <POIphone>
+    </POIphone>
+    <CoordinateX>-3.67167575905724</CoordinateX>
+    <CoordinateY>40.4671125215584</CoordinateY>
+    <Stop>
+      <IdStop>211</IdStop>
+      <PMV>61248</PMV>
+      <Name>Caidos División Azul</Name>
+      <PostalAdress>Caídos de la División Azul frente al Nº 22</PostalAdress>
+      <CoordinateX>-3.67275851334043</CoordinateX>
+      <CoordinateY>40.4668629929445</CoordinateY>
+      <Line>
+        <IdLine>029</IdLine>
+        <Label>29</Label>
+        <HeaderA>FELIPE II</HeaderA>
+        <HeaderB>MANOTERAS</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:15</StartTime>
+        <StopTime>22:17</StopTime>
+        <MinimunFrequency>9</MinimunFrequency>
+        <MaximumFrequency>25</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>070</IdLine>
+        <Label>70</Label>
+        <HeaderA>PLAZA CASTILLA</HeaderA>
+        <HeaderB>ALSACIA</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:30</StartTime>
+        <StopTime>00:02</StopTime>
+        <MinimunFrequency>4</MinimunFrequency>
+        <MaximumFrequency>15</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>107</IdLine>
+        <Label>107</Label>
+        <HeaderA>PLAZA CASTILLA</HeaderA>
+        <HeaderB>HORTALEZA</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:15</StartTime>
+        <StopTime>23:45</StopTime>
+        <MinimunFrequency>9</MinimunFrequency>
+        <MaximumFrequency>30</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>De 6:00 a 7:00 y 22:00 a 23:00 -&gt; cada 13 - 21 min.
+De 7:00 a 8:00 y 21:00 a 22:00 -&gt; cada 11 - 17 min.
+De 8:00 a 21:00 -&gt; cada 9 - 13 min.
+</FrequencyS1>
+        <FrequencyS2>De 6:00 a 7:00 y 22:00 a 23:00 -&gt; cada 13 - 21 min.
+De 7:00 a 8:00 y 21:00 a 22:00 -&gt; cada 11 - 17 min.
+De 8:00 a 21:00 -&gt; cada 9 - 13 min.
+</FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>501</IdLine>
+        <Label>N1</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>SANCHINARRO</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:55</StartTime>
+        <StopTime>05:10</StopTime>
+        <MinimunFrequency>20</MinimunFrequency>
+        <MaximumFrequency>50</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>210</IdStop>
+      <PMV>61249</PMV>
+      <Name>Caidos División Azul</Name>
+      <PostalAdress>Caídos de la División Azul, 24</PostalAdress>
+      <CoordinateX>-3.67273187213851</CoordinateX>
+      <CoordinateY>40.4665568426751</CoordinateY>
+      <Line>
+        <IdLine>029</IdLine>
+        <Label>29</Label>
+        <HeaderA>FELIPE II</HeaderA>
+        <HeaderB>MANOTERAS</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:45</StartTime>
+        <StopTime>22:31</StopTime>
+        <MinimunFrequency>9</MinimunFrequency>
+        <MaximumFrequency>25</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>070</IdLine>
+        <Label>70</Label>
+        <HeaderA>PLAZA CASTILLA</HeaderA>
+        <HeaderB>ALSACIA</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:35</StartTime>
+        <StopTime>00:15</StopTime>
+        <MinimunFrequency>4</MinimunFrequency>
+        <MaximumFrequency>15</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>107</IdLine>
+        <Label>107</Label>
+        <HeaderA>PLAZA CASTILLA</HeaderA>
+        <HeaderB>HORTALEZA</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:50</StartTime>
+        <StopTime>23:25</StopTime>
+        <MinimunFrequency>9</MinimunFrequency>
+        <MaximumFrequency>30</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>De 6:00 a 7:00 y 22:00 a 23:00 -&gt; cada 13 - 21 min.
+De 7:00 a 8:00 y 21:00 a 22:00 -&gt; cada 11 - 17 min.
+De 8:00 a 21:00 -&gt; cada 9 - 13 min.
+</FrequencyS1>
+        <FrequencyS2>De 6:00 a 7:00 y 22:00 a 23:00 -&gt; cada 13 - 21 min.
+De 7:00 a 8:00 y 21:00 a 22:00 -&gt; cada 11 - 17 min.
+De 8:00 a 21:00 -&gt; cada 9 - 13 min.
+</FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>501</IdLine>
+        <Label>N1</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>SANCHINARRO</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:30</StartTime>
+        <StopTime>05:50</StopTime>
+        <MinimunFrequency>20</MinimunFrequency>
+        <MaximumFrequency>50</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>119</IdStop>
+      <PMV>
+      </PMV>
+      <Name>Nunciatura</Name>
+      <PostalAdress>Av. Pío XII, 46</PostalAdress>
+      <CoordinateX>-3.67362251278524</CoordinateX>
+      <CoordinateY>40.4683354406065</CoordinateY>
+      <Line>
+        <IdLine>016</IdLine>
+        <Label>16</Label>
+        <HeaderA>MONCLOA</HeaderA>
+        <HeaderB>PIO XII</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:00</StartTime>
+        <StopTime>23:00</StopTime>
+        <MinimunFrequency>9</MinimunFrequency>
+        <MaximumFrequency>20</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>150</IdLine>
+        <Label>150</Label>
+        <HeaderA>SOL/SEVILLA</HeaderA>
+        <HeaderB>VIRGEN CORTIJO</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:00</StartTime>
+        <StopTime>00:13</StopTime>
+        <MinimunFrequency>8</MinimunFrequency>
+        <MaximumFrequency>14</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>118</IdStop>
+      <PMV>
+      </PMV>
+      <Name>Nunciatura</Name>
+      <PostalAdress>Av. Pío XII, 77</PostalAdress>
+      <CoordinateX>-3.67375411495808</CoordinateX>
+      <CoordinateY>40.4686680067273</CoordinateY>
+      <Line>
+        <IdLine>016</IdLine>
+        <Label>16</Label>
+        <HeaderA>MONCLOA</HeaderA>
+        <HeaderB>PIO XII</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:05</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>9</MinimunFrequency>
+        <MaximumFrequency>20</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>150</IdLine>
+        <Label>150</Label>
+        <HeaderA>SOL/SEVILLA</HeaderA>
+        <HeaderB>VIRGEN CORTIJO</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:35</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>8</MinimunFrequency>
+        <MaximumFrequency>14</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+  </Site>
+  <Site>
+    <Type>P</Type>
+    <Id>800831894</Id>
+    <Description>DOCTOR FEDERICO RUBIO</Description>
+    <POItype>3</POItype>
+    <POIdirection>AVENIDA DEL DOCTOR FEDERICO RUBIO Y GALI</POIdirection>
+    <POIstreetNumber>
+    </POIstreetNumber>
+    <POIphone>
+    </POIphone>
+    <CoordinateX>-3.71136955091233</CoordinateX>
+    <CoordinateY>40.4525511640305</CoordinateY>
+    <Stop>
+      <IdStop>1673</IdStop>
+      <PMV>
+      </PMV>
+      <Name>AV.PABLO IGLESIAS-NUMANCIA</Name>
+      <PostalAdress>Av. Pablo Iglesias con C/ Numancia</PostalAdress>
+      <CoordinateX>-3.71242893823518</CoordinateX>
+      <CoordinateY>40.4533374402774</CoordinateY>
+      <Line>
+        <IdLine>127</IdLine>
+        <Label>127</Label>
+        <HeaderA>CUATRO CAMINOS</HeaderA>
+        <HeaderB>C. PERIODISTAS</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:00</StartTime>
+        <StopTime>23:45</StopTime>
+        <MinimunFrequency>9</MinimunFrequency>
+        <MaximumFrequency>24</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>521</IdLine>
+        <Label>N21</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>ARROYO FRESNO</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:55</StartTime>
+        <StopTime>05:10</StopTime>
+        <MinimunFrequency>20</MinimunFrequency>
+        <MaximumFrequency>50</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>1671</IdStop>
+      <PMV>61049</PMV>
+      <Name>RUBIO Y GALI-JERONIMA LLORENTE</Name>
+      <PostalAdress>Doctor Federico Rubio y Gali, 45</PostalAdress>
+      <CoordinateX>-3.70990459879695</CoordinateX>
+      <CoordinateY>40.4523079044439</CoordinateY>
+      <Line>
+        <IdLine>044</IdLine>
+        <Label>44</Label>
+        <HeaderA>CALLAO</HeaderA>
+        <HeaderB>MARQUES DE VIANA</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:17</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>9</MinimunFrequency>
+        <MaximumFrequency>24</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>2397</IdStop>
+      <PMV>
+      </PMV>
+      <Name>RUBIO Y GALI-PABLO IGLESIAS</Name>
+      <PostalAdress>Av. Dr. Federico Rubio y Galí, 57</PostalAdress>
+      <CoordinateX>-3.71283451333721</CoordinateX>
+      <CoordinateY>40.4527944049387</CoordinateY>
+      <Line>
+        <IdLine>044</IdLine>
+        <Label>44</Label>
+        <HeaderA>CALLAO</HeaderA>
+        <HeaderB>MARQUES DE VIANA</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:17</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>9</MinimunFrequency>
+        <MaximumFrequency>24</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>1671</IdStop>
+      <PMV>61049</PMV>
+      <Name>RUBIO Y GALI-JERONIMA LLORENTE</Name>
+      <PostalAdress>Doctor Federico Rubio y Gali, 45</PostalAdress>
+      <CoordinateX>-3.70990459879695</CoordinateX>
+      <CoordinateY>40.4523079044439</CoordinateY>
+      <Line>
+        <IdLine>127</IdLine>
+        <Label>127</Label>
+        <HeaderA>CUATRO CAMINOS</HeaderA>
+        <HeaderB>C. PERIODISTAS</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:00</StartTime>
+        <StopTime>23:45</StopTime>
+        <MinimunFrequency>9</MinimunFrequency>
+        <MaximumFrequency>24</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>521</IdLine>
+        <Label>N21</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>ARROYO FRESNO</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:55</StartTime>
+        <StopTime>05:10</StopTime>
+        <MinimunFrequency>20</MinimunFrequency>
+        <MaximumFrequency>50</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>1670</IdStop>
+      <PMV>
+      </PMV>
+      <Name>RUBIO Y GALI-JERONIMA LLORENTE</Name>
+      <PostalAdress>Av. Doctor Federico Rubio y Galí, 56</PostalAdress>
+      <CoordinateX>-3.70977629821871</CoordinateX>
+      <CoordinateY>40.4524438258245</CoordinateY>
+      <Line>
+        <IdLine>044</IdLine>
+        <Label>44</Label>
+        <HeaderA>CALLAO</HeaderA>
+        <HeaderB>MARQUES DE VIANA</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:52</StartTime>
+        <StopTime>23:04</StopTime>
+        <MinimunFrequency>9</MinimunFrequency>
+        <MaximumFrequency>24</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>127</IdLine>
+        <Label>127</Label>
+        <HeaderA>CUATRO CAMINOS</HeaderA>
+        <HeaderB>C. PERIODISTAS</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:35</StartTime>
+        <StopTime>23:20</StopTime>
+        <MinimunFrequency>9</MinimunFrequency>
+        <MaximumFrequency>24</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>521</IdLine>
+        <Label>N21</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>ARROYO FRESNO</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:30</StartTime>
+        <StopTime>05:50</StopTime>
+        <MinimunFrequency>20</MinimunFrequency>
+        <MaximumFrequency>50</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>2396</IdStop>
+      <PMV>
+      </PMV>
+      <Name>RUBIO Y GALI-PABLO IGLESIAS</Name>
+      <PostalAdress>Av. Dr. Federico Rubio y Gali, 76</PostalAdress>
+      <CoordinateX>-3.71287774801998</CoordinateX>
+      <CoordinateY>40.4530148587817</CoordinateY>
+      <Line>
+        <IdLine>044</IdLine>
+        <Label>44</Label>
+        <HeaderA>CALLAO</HeaderA>
+        <HeaderB>MARQUES DE VIANA</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:52</StartTime>
+        <StopTime>23:04</StopTime>
+        <MinimunFrequency>9</MinimunFrequency>
+        <MaximumFrequency>24</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>1672</IdStop>
+      <PMV>
+      </PMV>
+      <Name>AV.PABLO IGLESIAS-NUMANCIA</Name>
+      <PostalAdress>Av. Pablo Iglesias S/N con C/ Numancia</PostalAdress>
+      <CoordinateX>-3.71249691877967</CoordinateX>
+      <CoordinateY>40.4538775607744</CoordinateY>
+      <Line>
+        <IdLine>127</IdLine>
+        <Label>127</Label>
+        <HeaderA>CUATRO CAMINOS</HeaderA>
+        <HeaderB>C. PERIODISTAS</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:35</StartTime>
+        <StopTime>23:20</StopTime>
+        <MinimunFrequency>9</MinimunFrequency>
+        <MaximumFrequency>24</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>521</IdLine>
+        <Label>N21</Label>
+        <HeaderA>CIBELES</HeaderA>
+        <HeaderB>ARROYO FRESNO</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>23:30</StartTime>
+        <StopTime>05:50</StopTime>
+        <MinimunFrequency>20</MinimunFrequency>
+        <MaximumFrequency>50</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>1669</IdStop>
+      <PMV>
+      </PMV>
+      <Name>RUBIO Y GALI-ARANJUEZ</Name>
+      <PostalAdress>Av. Doctor Federico Rubio y Galí, 27</PostalAdress>
+      <CoordinateX>-3.7095915239398</CoordinateX>
+      <CoordinateY>40.4505710896087</CoordinateY>
+      <Line>
+        <IdLine>044</IdLine>
+        <Label>44</Label>
+        <HeaderA>CALLAO</HeaderA>
+        <HeaderB>MARQUES DE VIANA</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:17</StartTime>
+        <StopTime>23:30</StopTime>
+        <MinimunFrequency>9</MinimunFrequency>
+        <MaximumFrequency>24</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>127</IdLine>
+        <Label>127</Label>
+        <HeaderA>CUATRO CAMINOS</HeaderA>
+        <HeaderB>C. PERIODISTAS</HeaderB>
+        <Direction>A</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>06:00</StartTime>
+        <StopTime>23:45</StopTime>
+        <MinimunFrequency>9</MinimunFrequency>
+        <MaximumFrequency>24</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+    <Stop>
+      <IdStop>1668</IdStop>
+      <PMV>
+      </PMV>
+      <Name>RUBIO Y GALI-ARANJUEZ</Name>
+      <PostalAdress>Av. Doctor Federico Rubio y Galí, 30</PostalAdress>
+      <CoordinateX>-3.70940322355</CoordinateX>
+      <CoordinateY>40.4506082794802</CoordinateY>
+      <Line>
+        <IdLine>044</IdLine>
+        <Label>44</Label>
+        <HeaderA>CALLAO</HeaderA>
+        <HeaderB>MARQUES DE VIANA</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:52</StartTime>
+        <StopTime>23:04</StopTime>
+        <MinimunFrequency>9</MinimunFrequency>
+        <MaximumFrequency>24</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+      <Line>
+        <IdLine>127</IdLine>
+        <Label>127</Label>
+        <HeaderA>CUATRO CAMINOS</HeaderA>
+        <HeaderB>C. PERIODISTAS</HeaderB>
+        <Direction>B</Direction>
+        <DayType>LABORABLE</DayType>
+        <StartTime>05:35</StartTime>
+        <StopTime>23:20</StopTime>
+        <MinimunFrequency>9</MinimunFrequency>
+        <MaximumFrequency>24</MaximumFrequency>
+        <TipoDia>LA</TipoDia>
+        <FrequencyS1>
+        </FrequencyS1>
+        <FrequencyS2>
+        </FrequencyS2>
+      </Line>
+    </Stop>
+  </Site>
+</Output>

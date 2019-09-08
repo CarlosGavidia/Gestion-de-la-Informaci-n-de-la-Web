@@ -1,0 +1,46 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+<title>EMT</title>
+<meta http-equiv="content-type" content="text/html" charset="utf-8" />
+</head>
+<body>
+    <h1>Paradas cercanas a la calle {{listaMostrar[0]}} nº{{listaMostrar[1]}}</h1>
+	
+	%i = 2
+	%sigue = 1
+    %while (sigue == 1):
+        %stop=str(listaMostrar[i])
+        %if "Parada" in stop:
+            <h3>{{listaMostrar[i]}}</h3><h4>{{listaMostrar[i+1]}} -- {{listaMostrar[i+2]}}</h4>
+            %i=i+3
+		%end
+        %next = str(listaMostrar[i])
+		%noParada = 1
+        %while (noParada == 1):
+            %if "Parada" in next:
+                %noParada = 0
+			%end
+            %else:
+                %if "Linea" in next:
+                    <h3>{{listaMostrar[i]}}</h3>
+                    %i = i+1
+				%end
+                <h4>{{listaMostrar[i]}}{{listaMostrar[i+1]}}</h4>
+                %i = i+2
+                %next = str(listaMostrar[i])
+                %if "End" in next:
+                    %break
+				%end
+			%end
+		%end
+		%fin = str(listaMostrar[i])
+		%if "End" in fin:
+			%sigue = 0
+		%end
+	%end
+	
+	<a href="..">Volver a la página principal</a>
+</body>
+</html>
